@@ -1,0 +1,23 @@
+[Default Applications]
+text/x-shellscript=text.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=mail.desktop;
+text/plain=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+video/x-matroska=video.desktop
+x-scheme-handler/lbry=lbry.desktop
+inode/directory=file.desktop
+image/vnd.djvu+multipage=dde-file-manager-custom-open-image-vnd.djvu+multipage.desktop
+x-scheme-handler/webcal=brave-browser.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-VL94V0.desktop
+
+[Added Associations]
+image/vnd.djvu+multipage=dde-file-manager-custom-open-image-vnd.djvu+multipage.desktop;
+text/x-c++src=vim.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-VL94V0.desktop;

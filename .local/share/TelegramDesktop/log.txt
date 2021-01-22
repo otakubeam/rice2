@@ -1,0 +1,41 @@
+[2021.01.21 10:22:10] Launched version: 2005001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.01.21 10:22:10] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.01.21 10:22:10] Initial working dir: /home/andrew/
+[2021.01.21 10:22:10] Working dir: /home/andrew/.local/share/TelegramDesktop/
+[2021.01.21 10:22:10] Command line: telegram-desktop
+[2021.01.21 10:22:10] Executable path before check: /usr/bin/telegram-desktop
+[2021.01.21 10:22:10] Logs started
+[2021.01.21 10:22:10] Launcher filename: telegramdesktop.desktop
+[2021.01.21 10:22:10] Getting DE, XDG_CURRENT_DESKTOP: ''
+[2021.01.21 10:22:10] Getting DE, DESKTOP_SESSION: ''
+[2021.01.21 10:22:10] Getting DE, KDE_SESSION_VERSION: ''
+[2021.01.21 10:22:10] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2021.01.21 10:22:10] Getting DE, KDE_FULL_SESSION: ''
+[2021.01.21 10:22:10] DE: Other
+[2021.01.21 10:22:10] Connecting local socket to /run/user/1000/27b607a0b6289339bbe95c75b98d2452-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.01.21 10:22:10] This is the only instance of Telegram, starting server and app...
+[2021.01.21 10:22:10] Moved logging from '/home/andrew/.local/share/TelegramDesktop/log_start0.txt' to '/home/andrew/.local/share/TelegramDesktop/log.txt'!
+[2021.01.21 10:22:10] Primary screen DPI: 96.2685
+[2021.01.21 10:22:11] App Info: reading settings...
+[2021.01.21 10:22:11] App Info: reading encrypted settings...
+[2021.01.21 10:22:11] Lang Info: Loaded cached, keys: 2910
+[2021.01.21 10:22:11] OpenAL Logging Level: (not set)
+[2021.01.21 10:22:11] Audio Playback Devices: ALSA Default;HDA Intel PCH, ALC3204 Analog (CARD=PCH,DEV=0);HDA Intel PCH, HDMI 0 (CARD=PCH,DEV=3);HDA Intel PCH, HDMI 1 (CARD=PCH,DEV=7);HDA Intel PCH, HDMI 2 (CARD=PCH,DEV=8);HDA Intel PCH, HDMI 3 (CARD=PCH,DEV=9);HDA Intel PCH, HDMI 4 (CARD=PCH,DEV=10)
+[2021.01.21 10:22:11] Audio Playback Default Device: ALSA Default
+[2021.01.21 10:22:11] Audio Capture Devices: ALSA Default;HDA Intel PCH, ALC3204 Analog (CARD=PCH,DEV=0)
+[2021.01.21 10:22:11] Audio Capture Default Device: ALSA Default
+[2021.01.21 10:22:11] System tray available: [TRUE]
+[2021.01.21 10:22:11] Not using D-Bus global menu.
+[2021.01.21 10:22:11] Not using Unity launcher counter.
+[2021.01.21 10:22:11] App Info: reading accounts info...
+[2021.01.21 10:22:11] App Info: reading encrypted info...
+[2021.01.21 10:22:11] App Info: reading map...
+[2021.01.21 10:22:11] App Info: reading encrypted map...
+[2021.01.21 10:22:11] App Info: reading encrypted user settings...
+[2021.01.21 10:22:11] App Info: encrypted user settings read.
+[2021.01.21 10:22:11] App Info: reading encrypted mtp data...
+[2021.01.21 10:22:11] MTP Info: read keys, current: 5, to destroy: 0
+[2021.01.21 10:22:11] Map read time: 6
+[2021.01.21 10:22:11] App Info: reading encrypted mtp config...
+[2021.01.21 10:22:12] Export Info: Destroy top bar by controller removal.
+[2021.01.21 10:22:12] Using Qt tray icon.

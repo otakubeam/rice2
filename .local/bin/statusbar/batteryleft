@@ -1,0 +1,5 @@
+#!/bin/sh
+
+time="$(acpi | awk '{print $5}')"
+
+printf "%s\n" "$time"

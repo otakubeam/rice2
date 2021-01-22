@@ -1,0 +1,74 @@
+2020-03-27 01:43:25,633 ================================================================================
+2020-03-27 01:43:25,633 displaycal 3.8.9.3 2019-12-14T12:16:22.165507Z
+2020-03-27 01:43:25,637    x86_64
+2020-03-27 01:43:25,637 Python 2.7.17 (default, Mar 21 2020, 00:47:07) 
+2020-03-27 01:43:25,637 [GCC 9.3.0]
+2020-03-27 01:43:25,638 ImportError: No module named faulthandler
+2020-03-27 01:43:25,672 /usr/lib64/python2.7/site-packages/wx-3.0-gtk3/wx/_core.py:16629: UserWarning: wxPython/wxWidgets release number mismatch
+2020-03-27 01:43:25,711 wxPython 3.0.2.0 gtk3 (classic)
+2020-03-27 01:43:25,712 Encoding: UTF-8
+2020-03-27 01:43:25,712 File system encoding: UTF-8
+2020-03-27 01:43:25,712 Lockfile /home/andrew/.config/DisplayCAL/DisplayCAL.lock
+2020-03-27 01:43:25,935 Starting up...
+2020-03-27 01:43:26,066 SDL2: libSDL2-2.0.so.0
+2020-03-27 01:43:26,068 Audio module: wx 3.0.2.0
+2020-03-27 01:43:27,226 Enumerating display devices and communication ports...
+2020-03-27 01:43:27,226 /usr/bin
+2020-03-27 01:43:29,684 ArgyllCMS 2.1.2
+2020-03-27 01:43:29,686 Argyll has virtual display support
+2020-03-27 01:43:29,686 ...ok.
+2020-03-27 01:43:29,739 Checking video card gamma table access for display 1...
+2020-03-27 01:43:29,895 Verify: 'test.cal' IS loaded (discrepancy 0.0%)
+2020-03-27 01:43:29,995 ...ok.
+2020-03-27 01:43:29,998 Initializing GUI...
+2020-03-27 01:43:30,149 
+2020-03-27 01:43:30,440 ...ok.
+2020-03-27 01:43:30,442 Ready.
+2020-03-27 01:43:30,493 Setting up scripting host at 127.0.0.1:15411
+2020-03-27 01:43:30,517 Check for application update...
+2020-03-27 01:43:30,792 DisplayCAL is up-to-date.
+2020-03-27 01:43:30,982 ArgyllCMS is up-to-date.
+2020-03-27 01:43:52,682 /usr/lib/python2.7/site-packages/DisplayCAL/colord.py:163: Warning: gi.repository.GLib.Error: g-io-error-quark: GDBus.Error:org.freedesktop.ColorManager.NotFound: property match 'OutputEdidMd5'='39251519842254b257d8f0c42d14183c' does not exist (36)
+2020-03-27 01:43:52,684 /usr/lib/python2.7/site-packages/DisplayCAL/ICCProfile.py:1884: Warning: gi.repository.GLib.Error: g-io-error-quark: GDBus.Error:org.freedesktop.ColorManager.NotFound: device id 'xrandr-LG Display' does not exist (36)
+2020-03-27 01:44:17,641 Enumerating display devices and communication ports...
+2020-03-27 01:44:17,960 
+2020-03-27 01:44:20,088 ArgyllCMS 2.1.2
+2020-03-27 01:44:20,090 Argyll has virtual display support
+2020-03-27 01:44:20,091 ...ok.
+2020-03-27 01:46:40,849 Enumerating display devices and communication ports...
+2020-03-27 01:46:40,922 
+2020-03-27 01:46:41,153 
+2020-03-27 01:46:43,301 ArgyllCMS 2.1.2
+2020-03-27 01:46:43,303 Argyll has virtual display support
+2020-03-27 01:46:43,305 ...ok.
+2020-03-27 01:47:13,723 Using CA file /etc/ssl/cert.pem
+2020-03-27 01:47:13,723 Connecting to https://displaycal.net:443...
+2020-03-27 01:47:14,028 Downloading https://displaycal.net/spyd2 → /home/andrew/.local/share/DisplayCAL/dl/spyd2
+2020-03-27 01:47:14,059 
+2020-03-27 01:47:14,110 ...ok.
+2020-03-27 01:47:14,111 --------------------------------------------------------------------------------
+2020-03-27 01:47:14,111 Working directory:
+2020-03-27 01:47:14,112   /
+2020-03-27 01:47:14,112    home/
+2020-03-27 01:47:14,112     andrew/
+2020-03-27 01:47:14,112      .local/
+2020-03-27 01:47:14,113       share/
+2020-03-27 01:47:14,113        DisplayCAL/
+2020-03-27 01:47:14,113         dl/
+2020-03-27 01:47:14,113 
+2020-03-27 01:47:14,113 Command line:
+2020-03-27 01:47:14,114   /usr/bin/oeminst
+2020-03-27 01:47:14,114     -v
+2020-03-27 01:47:14,114     spyd2
+2020-03-27 01:47:14,114 
+2020-03-27 01:47:14,126 Loading file 'spyd2'..done
+2020-03-27 01:47:14,126 'spyd2' seems to be a .dll file
+2020-03-27 01:47:14,126 Returning 'spyd2PLD.bin' length 6817 from 'spyd2'
+2020-03-27 01:47:14,126 Wrote '/home/andrew/.local/share/ArgyllCMS/spyd2PLD.bin' 6817 bytes
+2020-03-27 01:47:14,127 oeminst exitcode: 0
+2020-03-27 01:51:10,848 Executing BaseApp.OnExit()
+2020-03-27 01:51:10,848 Running application exit handlers
+2020-03-27 01:51:10,850 Waiting for thread ScriptingHost.ConnectionHandler to exit
+2020-03-27 01:51:10,979 ScriptingHost.ConnectionHandler exited
+2020-03-27 01:51:10,981 Exiting displaycal
+2020-03-27 01:51:10,982 Ran application exit handlers

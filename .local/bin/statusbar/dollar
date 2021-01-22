@@ -1,0 +1,5 @@
+#!/bin/sh
+
+exchange_rate="$(curl -X GET https://openexchangerates.org/api/latest.json\?app_id\=b1e03d2b66a44f0f90fa04963096de56 | grep RUB | awk '{print $2}' | cut -d"," -f1)"
+
+printf "%s\n" "$exchange_rate"

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Clang 10.0.0",
+    "compilers": {
+      "C": "/usr/bin/clang-10"
+    }
+  },
+  {
+    "name": "GCC 10.1.0",
+    "compilers": {
+      "C": "/usr/bin/gcc",
+      "CXX": "/usr/bin/g++"
+    }
+  },
+  {
+    "name": "GCC 9.3.0",
+    "compilers": {
+      "C": "/usr/bin/gcc",
+      "CXX": "/usr/bin/g++"
+    }
+  },
+  {
+    "name": "GCC for x86_64-pc-linux-gnu 10.1.0",
+    "compilers": {
+      "C": "/usr/bin/x86_64-pc-linux-gnu-gcc-10.1.0"
+    }
+  }
+]

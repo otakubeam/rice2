@@ -1,0 +1,52 @@
+[02:10:54] <irc.rizon.no> *** Looking up your hostname...
+[02:10:54] <irc.rizon.no> *** Checking Ident
+[02:10:54] <irc.rizon.no> *** Couldn't look up your hostname
+[02:10:56] <irc.rizon.no> *** No Ident response
+[02:10:56] <irc.rizon.no> *** Connected securely via TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384-256
+[02:10:56] <irc.rizon.no> *** Your host is masked (9874C600.14D20153.4E6A1773.IP)
+[02:10:56] <irc.rizon.no> Welcome to the Rizon Internet Relay Chat Network SrainUser 
+[02:10:56] <irc.rizon.no> Your host is irc.rizon.no, running version plexus-4(hybrid-8.1.20) 
+[02:10:56] <irc.rizon.no> This server was created Nov 29 2018 at 23:57:51 
+[02:10:56] <irc.rizon.no> irc.rizon.no plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv 
+[02:10:56] <irc.rizon.no> CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 are supported by this server 
+[02:10:56] <irc.rizon.no> CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz ELIST=CMNTU SAFELIST KNOCK WATCH=60 AWAYLEN=180 NAMESX UHNAMES are supported by this server 
+[02:10:56] <irc.rizon.no> There are 34 users and 12496 invisible on 13 servers 
+[02:10:56] <irc.rizon.no> 49 IRC Operators online 
+[02:10:56] <irc.rizon.no> 3 unknown connection(s) 
+[02:10:56] <irc.rizon.no> 9520 channels formed 
+[02:10:56] <irc.rizon.no> I have 12530 clients and 13 servers 
+[02:10:56] <irc.rizon.no> Current local users: 12530  Max: 17360 
+[02:10:56] <irc.rizon.no> Current global users: 12530  Max: 17360 
+[02:10:56] <irc.rizon.no> - irc.rizon.no Message of the Day -  
+[02:10:56] <irc.rizon.no> -          11oo                             
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - 88d888b. dP d888888b .d8888b. 88d888b.  
+[02:10:56] <irc.rizon.no> - 88'  `88 88    .d8P' 88'  `88 88'  `88  
+[02:10:56] <irc.rizon.no> - 1188       88  .Y8P    88.  .88 88    88  
+[02:10:56] <irc.rizon.no> - 11dP       dP d888888P `88888P' dP    dP 
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - Rizon Chat Network -- http://rizon.net 
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999 
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - Rules: 
+[02:10:56] <irc.rizon.no> - o No spamming or flooding 
+[02:10:56] <irc.rizon.no> - o No clones or malicious bots 
+[02:10:56] <irc.rizon.no> - o No takeovers 
+[02:10:56] <irc.rizon.no> - o No distribution of child pornography 
+[02:10:56] <irc.rizon.no> - o Clients must respond to VERSION requests 
+[02:10:56] <irc.rizon.no> - o Rizon staff may disconnect clients for any or no reason 
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - First steps: 
+[02:10:56] <irc.rizon.no> - o To register your nick: /msg NickServ HELP 
+[02:10:56] <irc.rizon.no> - o To register your channel: /msg ChanServ HELP 
+[02:10:56] <irc.rizon.no> - o To get a vHost: /msg HostServ HELP REQUEST 
+[02:10:56] <irc.rizon.no> - o For other help with Rizon: /join #help 
+[02:10:56] <irc.rizon.no> -  
+[02:10:56] <irc.rizon.no> - Usage of this network is a privilege, not a right. Rizon is a 
+[02:10:56] <irc.rizon.no> - transit provider, therefore no person or entity involved with 
+[02:10:56] <irc.rizon.no> - *.rizon.net or irc.rizon.no takes any responsibility for 
+[02:10:56] <irc.rizon.no> - users' actions. Absolutely no warranty is expressed or implied. 
+[02:10:56] <irc.rizon.no> End of /MOTD command. 
+[02:10:56] = mode SrainUser +Six  by SrainUser
+[02:10:56] = Received CTCP VERSION request form py-ctcp

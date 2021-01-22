@@ -1,0 +1,117 @@
+[  3624.596] (WW) Failed to open protocol names file lib/xorg/protocol.txt
+[  3624.597] 
+X.Org X Server 1.20.7
+X Protocol Version 11, Revision 0
+[  3624.597] Build Operating System: Linux Arch Linux
+[  3624.597] Current Operating System: Linux dizzy 5.5.8-arch1-1 #1 SMP PREEMPT Fri, 06 Mar 2020 00:57:33 +0000 x86_64
+[  3624.597] Kernel command line: BOOT_IMAGE=/vmlinuz-linux root=UUID=6f02e0ac-9c22-4fd7-ad0b-95e8d1bfe68d rw loglevel=3 quiet
+[  3624.597] Build Date: 14 January 2020  07:13:52AM
+[  3624.597]  
+[  3624.597] Current version of pixman: 0.38.4
+[  3624.597] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[  3624.597] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[  3624.597] (==) Log file: "/home/andrew/.local/share/xorg/Xorg.1.log", Time: Sat Mar 14 17:34:29 2020
+[  3624.597] (==) Using config file: "/etc/X11/xorg.conf"
+[  3624.597] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[  3624.597] (==) ServerLayout "X.org Configured"
+[  3624.597] (**) |-->Screen "Screen0" (0)
+[  3624.597] (**) |   |-->Monitor "Monitor0"
+[  3624.598] (**) |   |-->Device "Card0"
+[  3624.598] (**) |-->Screen "Screen1" (1)
+[  3624.598] (**) |   |-->Monitor "Monitor1"
+[  3624.598] (**) |   |-->Device "Card1"
+[  3624.598] (**) |-->Input Device "Mouse0"
+[  3624.598] (**) |-->Input Device "Keyboard0"
+[  3624.598] (==) Automatically adding devices
+[  3624.598] (==) Automatically enabling devices
+[  3624.598] (==) Automatically adding GPU devices
+[  3624.598] (==) Automatically binding GPU devices
+[  3624.598] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[  3624.598] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/100dpi" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/75dpi" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/100dpi" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (WW) The directory "/usr/share/fonts/75dpi" does not exist.
+[  3624.598] 	Entry deleted from font path.
+[  3624.598] (**) FontPath set to:
+	/usr/share/fonts/TTF,
+	/usr/share/fonts/TTF
+[  3624.598] (**) ModulePath set to "/usr/lib/xorg/modules"
+[  3624.598] (WW) Hotplugging is on, devices using drivers 'kbd', 'mouse' or 'vmmouse' will be disabled.
+[  3624.598] (WW) Disabling Mouse0
+[  3624.598] (WW) Disabling Keyboard0
+[  3624.598] (II) Module ABI versions:
+[  3624.598] 	X.Org ANSI C Emulation: 0.4
+[  3624.598] 	X.Org Video Driver: 24.1
+[  3624.598] 	X.Org XInput driver : 24.1
+[  3624.598] 	X.Org Server Extension : 10.0
+[  3624.598] (++) using VT number 1
+
+[  3624.599] (EE) systemd-logind: failed to get session: PID 11336 does not belong to any known session
+[  3624.599] (II) xfree86: Adding drm device (/dev/dri/card0)
+[  3624.599] (II) xfree86: Adding drm device (/dev/dri/card1)
+[  3624.601] (--) PCI:*(0@0:2:0) 8086:3ea0:1028:08a7 rev 2, Mem @ 0xa4000000/16777216, 0x80000000/268435456, I/O @ 0x00005000/64, BIOS @ 0x????????/131072
+[  3624.601] (--) PCI: (2@0:0:0) 10de:174d:1028:08a7 rev 162, Mem @ 0xa2000000/16777216, 0x90000000/268435456, 0xa0000000/33554432, I/O @ 0x00004000/128, BIOS @ 0x????????/524288
+[  3624.601] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[  3624.601] (II) "glx" will be loaded. This was enabled by default and also specified in the config file.
+[  3624.601] (II) LoadModule: "glx"
+[  3624.601] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[  3624.602] (II) Module glx: vendor="X.Org Foundation"
+[  3624.602] 	compiled for 1.20.7, module version = 1.0.0
+[  3624.602] 	ABI class: X.Org Server Extension, version 10.0
+[  3624.602] (II) LoadModule: "vesa"
+[  3624.602] (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[  3624.602] (II) Module vesa: vendor="X.Org Foundation"
+[  3624.602] 	compiled for 1.20.0, module version = 2.4.0
+[  3624.602] 	Module class: X.Org Video Driver
+[  3624.602] 	ABI class: X.Org Video Driver, version 24.0
+[  3624.602] (II) VESA: driver for VESA chipsets: vesa
+[  3624.602] xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+[  3624.602] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[  3624.602] (II) Loading sub module "vbe"
+[  3624.602] (II) LoadModule: "vbe"
+[  3624.602] (II) Loading /usr/lib/xorg/modules/libvbe.so
+[  3624.602] (II) Module vbe: vendor="X.Org Foundation"
+[  3624.602] 	compiled for 1.20.7, module version = 1.1.0
+[  3624.602] 	ABI class: X.Org Video Driver, version 24.1
+[  3624.602] (II) Loading sub module "int10"
+[  3624.602] (II) LoadModule: "int10"
+[  3624.602] (II) Loading /usr/lib/xorg/modules/libint10.so
+[  3624.602] (II) Module int10: vendor="X.Org Foundation"
+[  3624.602] 	compiled for 1.20.7, module version = 1.0.0
+[  3624.602] 	ABI class: X.Org Video Driver, version 24.1
+[  3624.602] (II) VESA(0): initializing int10
+[  3624.602] (EE) VESA(0): Cannot read int vect
+[  3624.602] (II) UnloadModule: "vesa"
+[  3624.602] (II) UnloadSubModule: "int10"
+[  3624.602] (II) Unloading int10
+[  3624.602] (II) UnloadSubModule: "vbe"
+[  3624.602] (II) Unloading vbe
+[  3624.602] (EE) Screen(s) found, but none have a usable configuration.
+[  3624.602] (EE) 
+Fatal server error:
+[  3624.602] (EE) no screens found(EE) 
+[  3624.602] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[  3624.602] (EE) Please also check the log file at "/home/andrew/.local/share/xorg/Xorg.1.log" for additional information.
+[  3624.602] (EE) 
+[  3624.648] (EE) Server terminated with error (1). Closing log file.

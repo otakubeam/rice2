@@ -1,0 +1,88 @@
+[02:04:18] <card.freenode.net> *** Looking up your hostname...
+[02:04:18] <card.freenode.net> *** Checking Ident
+[02:04:18] <card.freenode.net> *** Couldn't look up your hostname
+[02:04:25] <card.freenode.net> *** No Ident response
+[02:04:59] <verne.freenode.net> *** Looking up your hostname...
+[02:04:59] <verne.freenode.net> *** Checking Ident
+[02:04:59] <verne.freenode.net> *** Couldn't look up your hostname
+[02:05:09] <verne.freenode.net> *** No Ident response
+[02:05:43] <kornbluth.freenode.net> *** Looking up your hostname...
+[02:05:43] <kornbluth.freenode.net> *** Checking Ident
+[02:05:43] <kornbluth.freenode.net> *** Couldn't look up your hostname
+[02:05:51] <kornbluth.freenode.net> *** No Ident response
+[02:06:23] <tepper.freenode.net> *** Looking up your hostname...
+[02:06:23] <tepper.freenode.net> *** Checking Ident
+[02:06:23] <tepper.freenode.net> *** Couldn't look up your hostname
+[02:06:31] <tepper.freenode.net> *** No Ident response
+[02:06:31] <tepper.freenode.net> Welcome to the freenode Internet Relay Chat Network andreworazov 
+[02:06:31] <tepper.freenode.net> Your host is tepper.freenode.net[192.186.157.43/6697], running version ircd-seven-1.1.9 
+[02:06:31] <tepper.freenode.net> This server was created Sun Mar 15 2020 at 17:51:04 UTC 
+[02:06:31] <tepper.freenode.net> tepper.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI 
+[02:06:31] <tepper.freenode.net> CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 are supported by this server 
+[02:06:31] <tepper.freenode.net> CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE KNOCK WHOX are supported by this server 
+[02:06:31] <tepper.freenode.net> CPRIVMSG CNOTICE SAFELIST ELIST=CTU are supported by this server 
+[02:06:31] <tepper.freenode.net> There are 93 users and 82343 invisible on 30 servers 
+[02:06:31] <tepper.freenode.net> 33 IRC Operators online 
+[02:06:31] <tepper.freenode.net> 40 unknown connection(s) 
+[02:06:31] <tepper.freenode.net> 44562 channels formed 
+[02:06:31] <tepper.freenode.net> I have 3429 clients and 1 servers 
+[02:06:31] <tepper.freenode.net> 3429 4211 Current local users 3429, max 4211 
+[02:06:31] <tepper.freenode.net> 82436 88649 Current global users 82436, max 88649 
+[02:06:31] <tepper.freenode.net> Highest connection count: 4212 (4211 clients) (85167 connections received) 
+[02:06:31] <tepper.freenode.net> - tepper.freenode.net Message of the Day -  
+[02:06:31] <tepper.freenode.net> - Welcome to tepper.freenode.net in Buffalo, NY. 
+[02:06:31] <tepper.freenode.net> - Thanks to http://www.servermania.com/ for sponsoring 
+[02:06:31] <tepper.freenode.net> - this server! 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> - TEPPER, SHERI S. (1929-), an American science fiction, 
+[02:06:31] <tepper.freenode.net> - horror and mystery novel author, behind more than thirty 
+[02:06:31] <tepper.freenode.net> - books, many themed unapologetically eco-feminist. Her 
+[02:06:31] <tepper.freenode.net> - writing career started composing children's stories, but 
+[02:06:31] <tepper.freenode.net> - moved to adult fiction in 1982. With the 1991 novel 
+[02:06:31] <tepper.freenode.net> - 'Beauty' she won the Locus award for Best Fantasy Novel. 
+[02:06:31] <tepper.freenode.net> - Her other well-known works include 'Grass' (1989, nominated 
+[02:06:31] <tepper.freenode.net> - for Hugo and Locus Awards in 1990) and 'Gate to Women's 
+[02:06:31] <tepper.freenode.net> - Country' (1988). 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> - Welcome to freenode - supporting the free and open source 
+[02:06:31] <tepper.freenode.net> - software communities since 1998. 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> - By connecting to freenode you indicate that you have read and 
+[02:06:31] <tepper.freenode.net> - accept our policies and guidelines as set out on https://freenode.net 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> - In the event that you observe behaviour that contravenes our policies, 
+[02:06:31] <tepper.freenode.net> - please notify a volunteer staff member via private message, or send us an 
+[02:06:31] <tepper.freenode.net> - e-mail to complaints@freenode.net -- we will do our best to address the 
+[02:06:31] <tepper.freenode.net> - situation within a reasonable period of time, and we may request further 
+[02:06:31] <tepper.freenode.net> - information or, as appropriate, involve other parties such as channel operators  
+[02:06:31] <tepper.freenode.net> - Group Contacts representing an on-topic group. 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:31] <tepper.freenode.net> - freenode runs an open proxy scanner. 
+[02:06:31] <tepper.freenode.net> -   
+[02:06:32] <tepper.freenode.net> - If you are looking for assistance, you may be able to find a list of  
+[02:06:32] <tepper.freenode.net> - volunteer staff on '/stats p' (shows only on-call staff) or by joining  
+[02:06:32] <tepper.freenode.net> - #freenode and using the '/who freenode/staff/*' command. You may message 
+[02:06:32] <tepper.freenode.net> - any of us at any time. Please note that freenode predominantly provides  
+[02:06:32] <tepper.freenode.net> - assistance via private message, and while we have a network channel the  
+[02:06:32] <tepper.freenode.net> - primary venue for support requests is via private message to a member  
+[02:06:32] <tepper.freenode.net> - of the volunteer staff team. 
+[02:06:32] <tepper.freenode.net> -   
+[02:06:32] <tepper.freenode.net> - From time to time, volunteer staff may send server-wide notices relating to 
+[02:06:32] <tepper.freenode.net> - the project, or the communities that we host. The majority of such notices 
+[02:06:32] <tepper.freenode.net> - will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you 
+[02:06:32] <tepper.freenode.net> - do not miss them. Important messages relating to the freenode project, including 
+[02:06:32] <tepper.freenode.net> - notices of upcoming maintenance and other scheduled downtime will be issued as 
+[02:06:32] <tepper.freenode.net> - global notices. 
+[02:06:32] <tepper.freenode.net> -   
+[02:06:32] <tepper.freenode.net> - Representing an on-topic project? Don't forget to register, more information 
+[02:06:32] <tepper.freenode.net> - can be found on the https://freenode.net website under "Group Registration". 
+[02:06:32] <tepper.freenode.net> -   
+[02:06:32] <tepper.freenode.net> - Thank you also to our server sponsors for the sustained support in keeping the 
+[02:06:32] <tepper.freenode.net> - network going for close to two decades. 
+[02:06:32] <tepper.freenode.net> -   
+[02:06:32] <tepper.freenode.net> - Thank you for using freenode! 
+[02:06:32] <tepper.freenode.net> End of /MOTD command. 
+[02:06:32] = mode andreworazov +Zi  by andreworazov
+[02:07:43] <tepper.freenode.net> /LIST aborted
+[02:07:53] = Received CTCP VERSION request form EMIYA

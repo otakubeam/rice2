@@ -1,0 +1,134 @@
+[  4420.208] (WW) Failed to open protocol names file lib/xorg/protocol.txt
+[  4420.208] 
+X.Org X Server 1.20.7
+X Protocol Version 11, Revision 0
+[  4420.208] Build Operating System: Linux Arch Linux
+[  4420.208] Current Operating System: Linux dizzy 5.5.8-arch1-1 #1 SMP PREEMPT Fri, 06 Mar 2020 00:57:33 +0000 x86_64
+[  4420.208] Kernel command line: BOOT_IMAGE=/vmlinuz-linux root=UUID=6f02e0ac-9c22-4fd7-ad0b-95e8d1bfe68d rw loglevel=3 quiet
+[  4420.208] Build Date: 14 January 2020  07:13:52AM
+[  4420.208]  
+[  4420.208] Current version of pixman: 0.38.4
+[  4420.208] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[  4420.208] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[  4420.208] (==) Log file: "/home/andrew/.local/share/xorg/Xorg.1.log", Time: Sat Mar 14 17:47:45 2020
+[  4420.208] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[  4420.209] (==) No Layout section.  Using the first Screen section.
+[  4420.209] (==) No screen section available. Using defaults.
+[  4420.209] (**) |-->Screen "Default Screen Section" (0)
+[  4420.209] (**) |   |-->Monitor "<default monitor>"
+[  4420.209] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[  4420.209] (==) Automatically adding devices
+[  4420.209] (==) Automatically enabling devices
+[  4420.209] (==) Automatically adding GPU devices
+[  4420.209] (==) Automatically binding GPU devices
+[  4420.209] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[  4420.209] (WW) The directory "/usr/share/fonts/misc" does not exist.
+[  4420.209] 	Entry deleted from font path.
+[  4420.209] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[  4420.209] 	Entry deleted from font path.
+[  4420.209] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[  4420.209] 	Entry deleted from font path.
+[  4420.209] (WW) The directory "/usr/share/fonts/100dpi" does not exist.
+[  4420.209] 	Entry deleted from font path.
+[  4420.209] (WW) The directory "/usr/share/fonts/75dpi" does not exist.
+[  4420.209] 	Entry deleted from font path.
+[  4420.209] (==) FontPath set to:
+	/usr/share/fonts/TTF
+[  4420.209] (==) ModulePath set to "/usr/lib/xorg/modules"
+[  4420.209] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[  4420.209] (II) Module ABI versions:
+[  4420.209] 	X.Org ANSI C Emulation: 0.4
+[  4420.209] 	X.Org Video Driver: 24.1
+[  4420.209] 	X.Org XInput driver : 24.1
+[  4420.209] 	X.Org Server Extension : 10.0
+[  4420.209] (++) using VT number 1
+
+[  4420.210] (EE) systemd-logind: failed to get session: PID 11832 does not belong to any known session
+[  4420.210] (II) xfree86: Adding drm device (/dev/dri/card0)
+[  4420.210] (II) xfree86: Adding drm device (/dev/dri/card1)
+[  4420.212] (--) PCI:*(0@0:2:0) 8086:3ea0:1028:08a7 rev 2, Mem @ 0xa4000000/16777216, 0x80000000/268435456, I/O @ 0x00005000/64, BIOS @ 0x????????/131072
+[  4420.212] (--) PCI: (2@0:0:0) 10de:174d:1028:08a7 rev 162, Mem @ 0xa2000000/16777216, 0x90000000/268435456, 0xa0000000/33554432, I/O @ 0x00004000/128, BIOS @ 0x????????/524288
+[  4420.212] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[  4420.212] (II) LoadModule: "glx"
+[  4420.212] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[  4420.213] (II) Module glx: vendor="X.Org Foundation"
+[  4420.213] 	compiled for 1.20.7, module version = 1.0.0
+[  4420.213] 	ABI class: X.Org Server Extension, version 10.0
+[  4420.213] (==) Matched intel as autoconfigured driver 0
+[  4420.213] (==) Matched modesetting as autoconfigured driver 1
+[  4420.213] (==) Matched fbdev as autoconfigured driver 2
+[  4420.213] (==) Matched vesa as autoconfigured driver 3
+[  4420.213] (==) Assigned the driver to the xf86ConfigLayout
+[  4420.213] (II) LoadModule: "intel"
+[  4420.213] (II) Loading /usr/lib/xorg/modules/drivers/intel_drv.so
+[  4420.213] (II) Module intel: vendor="X.Org Foundation"
+[  4420.213] 	compiled for 1.20.6, module version = 2.99.917
+[  4420.213] 	Module class: X.Org Video Driver
+[  4420.213] 	ABI class: X.Org Video Driver, version 24.0
+[  4420.213] (II) LoadModule: "modesetting"
+[  4420.213] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[  4420.213] (II) Module modesetting: vendor="X.Org Foundation"
+[  4420.213] 	compiled for 1.20.7, module version = 1.20.7
+[  4420.213] 	Module class: X.Org Video Driver
+[  4420.213] 	ABI class: X.Org Video Driver, version 24.1
+[  4420.213] (II) LoadModule: "fbdev"
+[  4420.213] (WW) Warning, couldn't open module fbdev
+[  4420.213] (EE) Failed to load module "fbdev" (module does not exist, 0)
+[  4420.213] (II) LoadModule: "vesa"
+[  4420.213] (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[  4420.213] (II) Module vesa: vendor="X.Org Foundation"
+[  4420.213] 	compiled for 1.20.0, module version = 2.4.0
+[  4420.214] 	Module class: X.Org Video Driver
+[  4420.214] 	ABI class: X.Org Video Driver, version 24.0
+[  4420.214] (II) intel: Driver for Intel(R) Integrated Graphics Chipsets:
+	i810, i810-dc100, i810e, i815, i830M, 845G, 854, 852GM/855GM, 865G,
+	915G, E7221 (i915), 915GM, 945G, 945GM, 945GME, Pineview GM,
+	Pineview G, 965G, G35, 965Q, 946GZ, 965GM, 965GME/GLE, G33, Q35, Q33,
+	GM45, 4 Series, G45/G43, Q45/Q43, G41, B43
+[  4420.214] (II) intel: Driver for Intel(R) HD Graphics
+[  4420.214] (II) intel: Driver for Intel(R) Iris(TM) Graphics
+[  4420.214] (II) intel: Driver for Intel(R) Iris(TM) Pro Graphics
+[  4420.214] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[  4420.214] (II) VESA: driver for VESA chipsets: vesa
+[  4420.214] xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+[  4420.214] (EE) open /dev/dri/card0: Permission denied
+[  4420.214] (WW) Falling back to old probe method for modesetting
+[  4420.214] (EE) open /dev/dri/card0: Permission denied
+[  4420.214] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[  4420.214] (EE) Screen 0 deleted because of no matching config section.
+[  4420.214] (II) UnloadModule: "modesetting"
+[  4420.214] (II) Loading sub module "vbe"
+[  4420.214] (II) LoadModule: "vbe"
+[  4420.214] (II) Loading /usr/lib/xorg/modules/libvbe.so
+[  4420.214] (II) Module vbe: vendor="X.Org Foundation"
+[  4420.214] 	compiled for 1.20.7, module version = 1.1.0
+[  4420.214] 	ABI class: X.Org Video Driver, version 24.1
+[  4420.214] (II) Loading sub module "int10"
+[  4420.214] (II) LoadModule: "int10"
+[  4420.214] (II) Loading /usr/lib/xorg/modules/libint10.so
+[  4420.214] (II) Module int10: vendor="X.Org Foundation"
+[  4420.214] 	compiled for 1.20.7, module version = 1.0.0
+[  4420.214] 	ABI class: X.Org Video Driver, version 24.1
+[  4420.214] (II) VESA(0): initializing int10
+[  4420.214] (EE) VESA(0): Cannot read int vect
+[  4420.214] (II) UnloadModule: "vesa"
+[  4420.214] (II) UnloadSubModule: "int10"
+[  4420.214] (II) Unloading int10
+[  4420.214] (II) UnloadSubModule: "vbe"
+[  4420.214] (II) Unloading vbe
+[  4420.214] (EE) Screen(s) found, but none have a usable configuration.
+[  4420.214] (EE) 
+Fatal server error:
+[  4420.214] (EE) no screens found(EE) 
+[  4420.214] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[  4420.214] (EE) Please also check the log file at "/home/andrew/.local/share/xorg/Xorg.1.log" for additional information.
+[  4420.214] (EE) 
+[  4420.265] (EE) Server terminated with error (1). Closing log file.

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    2) xbacklight -time 0 -set 50 ;;
+    4) xbacklight -time 0 -inc 2 >/dev/null 2>/dev/null ;;
+    5) xbacklight -time 0 -dec 2 >/dev/null 2>/dev/null
+esac
+
+#printf "🔆 xbl\n"
+printf "xbl\n"

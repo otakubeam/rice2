@@ -1,0 +1,605 @@
+(I) 2020-08-12T20:08:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-12T20:08:37 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-12T20:08:37 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-12T20:08:39 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-12T20:08:39 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-12T20:08:41 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(I) 2020-08-12T20:53:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-12T20:53:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-12T20:53:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-12T20:53:37 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-13T23:53:29 - qBittorrent v4.2.5 started
+(N) 2020-08-13T23:53:29 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-13T23:53:29 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-13T23:53:29 - Peer ID: -qB4250-
+(N) 2020-08-13T23:53:29 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-13T23:53:29 - DHT support [ON]
+(I) 2020-08-13T23:53:29 - Local Peer Discovery support [ON]
+(I) 2020-08-13T23:53:29 - PeX support [ON]
+(I) 2020-08-13T23:53:29 - Anonymous mode [OFF]
+(I) 2020-08-13T23:53:29 - Encryption support [ON]
+(I) 2020-08-13T23:53:29 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-13T23:53:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-13T23:53:30 - Options were saved successfully.
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-13T23:53:30 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-13T23:53:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-13T23:53:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-13T23:53:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-13T23:53:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-13T23:53:30 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-13T23:53:30 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 04 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-13T23:53:30 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 05 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-13T23:53:30 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 06 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-13T23:53:30 - 'Maria Holic [BDRip] [1080p]' restored.
+(N) 2020-08-13T23:53:44 - Download first and last piece first: Off, torrent: 'Intel exconfidential Lake drop 1'
+(N) 2020-08-13T23:53:44 - 'Intel exconfidential Lake drop 1' added to download list.
+(N) 2020-08-13T23:55:24 - Download first and last piece first: Off, torrent: 'Intel exconfidential Lake drop 1.5'
+(N) 2020-08-13T23:55:24 - 'Intel exconfidential Lake drop 1.5' added to download list.
+(I) 2020-08-14T00:38:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T00:38:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T00:38:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T00:38:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T12:03:28 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T12:03:28 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T12:03:28 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T12:03:28 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T12:03:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T12:03:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T12:03:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T12:03:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T12:03:30 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-14T12:03:30 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-14T12:03:32 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-14T12:03:32 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-14T12:04:15 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(I) 2020-08-14T12:48:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T12:48:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T12:48:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T12:48:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T15:53:17 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T15:53:17 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T15:53:17 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T15:53:17 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T15:53:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T15:53:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T15:53:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T15:53:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T15:53:18 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-14T15:53:18 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-14T15:53:28 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-14T15:53:28 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-14T15:54:03 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(C) 2020-08-14T16:03:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-14T16:03:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-14T16:03:18 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T16:03:18 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T16:03:18 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T16:03:18 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T16:03:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T16:03:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T16:03:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T16:03:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T16:03:19 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-14T16:03:19 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-14T16:03:21 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-14T16:03:21 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-14T16:04:04 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(I) 2020-08-14T19:25:56 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T19:25:56 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T19:25:56 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T19:25:56 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T19:25:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T19:25:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T19:25:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T19:25:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T19:25:57 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-14T19:25:57 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-14T19:25:58 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-14T19:25:58 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-14T19:25:58 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(I) 2020-08-14T23:36:44 - System network status changed to OFFLINE
+(I) 2020-08-14T23:36:51 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T23:36:51 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T23:36:51 - System network status changed to ONLINE
+(I) 2020-08-14T23:36:51 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-14T23:36:51 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-14T23:36:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-14T23:36:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-14T23:36:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-14T23:36:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-14T23:36:53 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-14T23:36:53 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-14T23:36:55 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-14T23:36:55 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-14T23:37:00 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-19T20:06:03 - qBittorrent v4.2.5 started
+(N) 2020-08-19T20:06:03 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-19T20:06:03 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-19T20:06:03 - Peer ID: -qB4250-
+(N) 2020-08-19T20:06:03 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-19T20:06:03 - DHT support [ON]
+(I) 2020-08-19T20:06:03 - Local Peer Discovery support [ON]
+(I) 2020-08-19T20:06:03 - PeX support [ON]
+(I) 2020-08-19T20:06:03 - Anonymous mode [OFF]
+(I) 2020-08-19T20:06:03 - Encryption support [ON]
+(I) 2020-08-19T20:06:03 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-19T20:06:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-19T20:06:04 - Options were saved successfully.
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-19T20:06:04 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-19T20:06:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-19T20:06:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-19T20:06:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-19T20:06:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-19T20:06:04 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-19T20:06:04 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 04 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-19T20:06:04 - 'Intel exconfidential Lake drop 1' restored.
+(N) 2020-08-19T20:06:04 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 05 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-19T20:06:04 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 06 [1080p][Multiple Subtitle].mkv' restored.
+(N) 2020-08-19T20:06:04 - 'Intel exconfidential Lake drop 1.5' restored.
+(N) 2020-08-19T20:06:04 - 'Maria Holic [BDRip] [1080p]' restored.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 04 [1080p][Multiple Subtitle].mkv', pausing it.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 05 [1080p][Multiple Subtitle].mkv', pausing it.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 06 [1080p][Multiple Subtitle].mkv', pausing it.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent 'Intel exconfidential Lake drop 1.5', pausing it.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent 'Intel exconfidential Lake drop 1', pausing it.
+(C) 2020-08-19T20:06:05 - File sizes mismatch for torrent 'Maria Holic [BDRip] [1080p]', pausing it.
+(N) 2020-08-19T20:06:26 - Download first and last piece first: Off, torrent: '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 07 [1080p][Multiple Subtitle].mkv'
+(N) 2020-08-19T20:06:26 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 07 [1080p][Multiple Subtitle].mkv' added to download list.
+(N) 2020-08-19T20:06:33 - 'Intel exconfidential Lake drop 1.5' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:06:33 - 'Intel exconfidential Lake drop 1' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:06:33 - 'Maria Holic [BDRip] [1080p]' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:06:37 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 04 [1080p][Multiple Subtitle].mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:06:37 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 05 [1080p][Multiple Subtitle].mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:06:37 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 06 [1080p][Multiple Subtitle].mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-19T20:35:34 - '[Erai-raws] Re.Zero kara Hajimeru Isekai Seikatsu 2nd Season - 07 [1080p][Multiple Subtitle].mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-21T00:00:53 - qBittorrent v4.2.5 started
+(N) 2020-08-21T00:00:53 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-21T00:00:53 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-21T00:00:53 - Peer ID: -qB4250-
+(N) 2020-08-21T00:00:53 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-21T00:00:53 - DHT support [ON]
+(I) 2020-08-21T00:00:53 - Local Peer Discovery support [ON]
+(I) 2020-08-21T00:00:53 - PeX support [ON]
+(I) 2020-08-21T00:00:53 - Anonymous mode [OFF]
+(I) 2020-08-21T00:00:53 - Encryption support [ON]
+(I) 2020-08-21T00:00:53 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-21T00:00:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-21T00:00:53 - Options were saved successfully.
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-21T00:00:54 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-21T00:00:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-21T00:00:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-21T00:00:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-21T00:00:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-21T00:00:54 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-21T00:01:13 - Download first and last piece first: Off, torrent: 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]'
+(N) 2020-08-21T00:01:13 - 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]' added to download list.
+(I) 2020-08-21T00:45:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-21T00:45:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-21T00:45:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-21T00:45:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-21T01:30:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-21T01:30:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-21T01:30:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-21T01:30:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-22T12:39:12 - qBittorrent v4.2.5 started
+(N) 2020-08-22T12:39:12 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-22T12:39:12 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-22T12:39:12 - Peer ID: -qB4250-
+(N) 2020-08-22T12:39:12 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-22T12:39:12 - DHT support [ON]
+(I) 2020-08-22T12:39:12 - Local Peer Discovery support [ON]
+(I) 2020-08-22T12:39:12 - PeX support [ON]
+(I) 2020-08-22T12:39:12 - Anonymous mode [OFF]
+(I) 2020-08-22T12:39:12 - Encryption support [ON]
+(I) 2020-08-22T12:39:12 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-22T12:39:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-22T12:39:13 - Options were saved successfully.
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-22T12:39:13 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-22T12:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T12:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T12:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T12:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T12:39:13 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-22T12:39:13 - 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]' restored.
+(N) 2020-08-22T12:39:18 - Download first and last piece first: Off, torrent: 'Tales of the past 3 rus.mp4'
+(N) 2020-08-22T12:39:18 - 'Tales of the past 3 rus.mp4' added to download list.
+(N) 2020-08-22T12:42:33 - Download first and last piece first: Off, torrent: 'Atlantis.The.Lost.Empire.2001.720p.BluRay.3xRus.Ukr.Eng.HDCLUB.mkv'
+(N) 2020-08-22T12:42:33 - 'Atlantis.The.Lost.Empire.2001.720p.BluRay.3xRus.Ukr.Eng.HDCLUB.mkv' added to download list.
+(I) 2020-08-22T13:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T13:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T13:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T14:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T14:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T14:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T14:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T14:54:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T14:54:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T14:54:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T14:54:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T15:39:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T15:39:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T15:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T15:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T16:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T16:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T16:24:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T16:24:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T17:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T17:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T17:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T17:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T17:54:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T17:54:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T17:54:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T17:54:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T18:39:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T18:39:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T18:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T18:39:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T19:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T19:24:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T19:24:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T19:24:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-22T20:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-22T20:09:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-22T20:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-22T20:09:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-26T20:39:55 - qBittorrent v4.2.5 started
+(N) 2020-08-26T20:39:55 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-26T20:39:55 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-26T20:39:55 - Peer ID: -qB4250-
+(N) 2020-08-26T20:39:55 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-26T20:39:55 - DHT support [ON]
+(I) 2020-08-26T20:39:55 - Local Peer Discovery support [ON]
+(I) 2020-08-26T20:39:55 - PeX support [ON]
+(I) 2020-08-26T20:39:55 - Anonymous mode [OFF]
+(I) 2020-08-26T20:39:55 - Encryption support [ON]
+(I) 2020-08-26T20:39:55 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-26T20:39:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-26T20:39:56 - Options were saved successfully.
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 192.168.1.35, port: TCP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 192.168.1.35, port: UDP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: TCP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: UDP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: TCP/12910
+(I) 2020-08-26T20:39:56 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: UDP/12910
+(I) 2020-08-26T20:39:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-26T20:39:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-26T20:39:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-26T20:39:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-26T20:39:56 - 'Tales of the past 3 rus.mp4' restored.
+(N) 2020-08-26T20:39:56 - 'Atlantis.The.Lost.Empire.2001.720p.BluRay.3xRus.Ukr.Eng.HDCLUB.mkv' restored.
+(N) 2020-08-26T20:39:56 - 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]' restored.
+(I) 2020-08-26T20:39:56 - Detected external IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d
+(C) 2020-08-26T20:39:56 - File sizes mismatch for torrent 'Atlantis.The.Lost.Empire.2001.720p.BluRay.3xRus.Ukr.Eng.HDCLUB.mkv', pausing it.
+(C) 2020-08-26T20:39:56 - File sizes mismatch for torrent 'Tales of the past 3 rus.mp4', pausing it.
+(C) 2020-08-26T20:39:56 - File sizes mismatch for torrent 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]', pausing it.
+(N) 2020-08-26T20:40:04 - Download first and last piece first: Off, torrent: '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 33 [1080p].mkv'
+(N) 2020-08-26T20:40:04 - '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 33 [1080p].mkv' added to download list.
+(N) 2020-08-26T20:40:12 - 'Atlantis.The.Lost.Empire.2001.720p.BluRay.3xRus.Ukr.Eng.HDCLUB.mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-26T20:40:12 - 'Tales of the past 3 rus.mp4' was removed from the transfer list and hard disk.
+(N) 2020-08-26T20:40:12 - 'Kino no Tabi -the Beautiful World- [TV] [RG Genshiken]' was removed from the transfer list and hard disk.
+(I) 2020-08-26T21:24:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-26T21:24:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-26T21:24:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-26T22:09:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-26T22:09:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-26T22:09:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-26T22:09:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(C) 2020-08-26T22:13:39 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-26T22:13:39 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-26T22:18:58 - System network status changed to OFFLINE
+(I) 2020-08-26T22:18:59 - Successfully listening on IP: 192.168.1.35, port: TCP/12910
+(I) 2020-08-26T22:18:59 - Successfully listening on IP: 192.168.1.35, port: UDP/12910
+(I) 2020-08-26T22:18:59 - Successfully listening on IP: 192.168.1.35, port: TCP/12910
+(I) 2020-08-26T22:18:59 - Successfully listening on IP: 192.168.1.35, port: UDP/12910
+(I) 2020-08-26T22:18:59 - System network status changed to ONLINE
+(I) 2020-08-26T22:18:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-26T22:18:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-26T22:18:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-26T22:18:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-26T22:19:00 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: TCP/12910
+(I) 2020-08-26T22:19:00 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: UDP/12910
+(I) 2020-08-26T22:19:01 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: TCP/12910
+(I) 2020-08-26T22:19:01 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: UDP/12910
+(I) 2020-08-26T22:19:37 - Detected external IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d
+(I) 2020-08-26T22:23:00 - System network status changed to OFFLINE
+(C) 2020-08-26T22:23:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-26T22:23:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(N) 2020-08-26T23:40:47 - '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 33 [1080p].mkv' was removed from the transfer list and hard disk.
+(N) 2020-08-28T17:37:14 - qBittorrent v4.2.5 started
+(N) 2020-08-28T17:37:14 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-28T17:37:15 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-28T17:37:15 - Peer ID: -qB4250-
+(N) 2020-08-28T17:37:15 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-28T17:37:15 - DHT support [ON]
+(I) 2020-08-28T17:37:15 - Local Peer Discovery support [ON]
+(I) 2020-08-28T17:37:15 - PeX support [ON]
+(I) 2020-08-28T17:37:15 - Anonymous mode [OFF]
+(I) 2020-08-28T17:37:15 - Encryption support [ON]
+(I) 2020-08-28T17:37:15 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-28T17:37:15 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-28T17:37:15 - Options were saved successfully.
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 192.168.1.35, port: TCP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 192.168.1.35, port: UDP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: TCP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d, port: UDP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: TCP/12910
+(I) 2020-08-28T17:37:15 - Successfully listening on IP: fe80::f293:80f6:c518:59e8%enp3s0, port: UDP/12910
+(I) 2020-08-28T17:37:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-28T17:37:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-28T17:37:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-28T17:37:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-28T17:37:15 - Detected external IP: 2a03:1ac0:6dc3:737d:be18:1d8b:fb1f:ef9d
+(N) 2020-08-28T17:37:34 - Download first and last piece first: Off, torrent: 'Паразиты.2019.Dub.1080p.BluRay.x264-PuTao.mkv'
+(N) 2020-08-28T17:37:34 - 'Паразиты.2019.Dub.1080p.BluRay.x264-PuTao.mkv' added to download list.
+(I) 2020-08-28T18:22:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-28T18:22:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-28T18:22:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-28T19:07:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-28T19:07:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-28T19:07:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-28T19:07:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-29T15:44:47 - qBittorrent v4.2.5 started
+(N) 2020-08-29T15:44:47 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-29T15:44:47 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-29T15:44:47 - Peer ID: -qB4250-
+(N) 2020-08-29T15:44:47 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-29T15:44:47 - DHT support [ON]
+(I) 2020-08-29T15:44:47 - Local Peer Discovery support [ON]
+(I) 2020-08-29T15:44:47 - PeX support [ON]
+(I) 2020-08-29T15:44:47 - Anonymous mode [OFF]
+(I) 2020-08-29T15:44:47 - Encryption support [ON]
+(I) 2020-08-29T15:44:47 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-29T15:44:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-29T15:44:48 - Options were saved successfully.
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-29T15:44:48 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-29T15:44:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-29T15:44:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-29T15:44:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-29T15:44:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-29T15:44:48 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(N) 2020-08-29T15:44:48 - 'Паразиты.2019.Dub.1080p.BluRay.x264-PuTao.mkv' restored.
+(N) 2020-08-29T15:44:57 - Download first and last piece first: Off, torrent: 'hqf-fight.mkv'
+(N) 2020-08-29T15:44:57 - 'hqf-fight.mkv' added to download list.
+(I) 2020-08-29T16:42:58 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-29T16:42:58 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-29T16:42:58 - Successfully listening on IP: 192.168.1.58, port: TCP/12910
+(I) 2020-08-29T16:42:58 - Successfully listening on IP: 192.168.1.58, port: UDP/12910
+(I) 2020-08-29T16:42:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-29T16:42:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-29T16:42:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-29T16:42:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-29T16:42:59 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-29T16:42:59 - Successfully listening on IP: fe80::cb7c:db08:aac1:fa3d%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-29T16:43:01 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: TCP/12910
+(I) 2020-08-29T16:43:01 - Successfully listening on IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889, port: UDP/12910
+(I) 2020-08-29T16:45:24 - Detected external IP: 2a03:1ac0:6dc3:737d:48c5:d5db:14dc:e889
+(I) 2020-08-29T17:27:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-29T17:27:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-29T17:27:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-29T17:27:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-29T18:12:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-29T18:12:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-29T18:12:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-29T18:12:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-29T18:57:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-29T18:57:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-29T18:57:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-29T18:57:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-30T21:11:45 - qBittorrent v4.2.5 started
+(N) 2020-08-30T21:11:45 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-08-30T21:11:45 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-08-30T21:11:45 - Peer ID: -qB4250-
+(N) 2020-08-30T21:11:45 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-30T21:11:45 - DHT support [ON]
+(I) 2020-08-30T21:11:45 - Local Peer Discovery support [ON]
+(I) 2020-08-30T21:11:45 - PeX support [ON]
+(I) 2020-08-30T21:11:45 - Anonymous mode [OFF]
+(I) 2020-08-30T21:11:45 - Encryption support [ON]
+(I) 2020-08-30T21:11:45 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-30T21:11:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-08-30T21:11:46 - Options were saved successfully.
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-30T21:11:46 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-30T21:11:46 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-30T21:11:46 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-30T21:11:46 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-30T21:11:46 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-08-30T21:11:46 - 'Паразиты.2019.Dub.1080p.BluRay.x264-PuTao.mkv' restored.
+(N) 2020-08-30T21:11:46 - 'hqf-fight.mkv' restored.
+(N) 2020-08-30T21:11:55 - Download first and last piece first: Off, torrent: 'Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv'
+(N) 2020-08-30T21:11:55 - 'Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv' added to download list.
+(W) 2020-08-30T21:27:32 - File error alert. Torrent: "Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv". File: "/home/andrew/Downloads/Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv". Reason: Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv file_write (/home/andrew/Downloads/Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv) error: No space left on device
+(W) 2020-08-30T21:28:35 - File error alert. Torrent: "Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv". File: "/home/andrew/Downloads/Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv". Reason: Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv file_write (/home/andrew/Downloads/Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv) error: No space left on device
+(N) 2020-08-30T21:28:58 - 'Паразиты.2019.Dub.1080p.BluRay.x264-PuTao.mkv' was removed from the transfer list and hard disk.
+(C) 2020-08-30T21:47:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-30T21:47:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-30T21:47:07 - System network status changed to OFFLINE
+(I) 2020-08-30T21:47:10 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-30T21:47:10 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-30T21:47:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-30T21:47:10 - System network status changed to ONLINE
+(I) 2020-08-30T21:47:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-30T21:47:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-30T21:47:10 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-30T21:47:11 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-30T21:47:11 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-30T23:18:21 - System network status changed to OFFLINE
+(I) 2020-08-30T23:18:24 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-30T23:18:24 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-30T23:18:24 - System network status changed to ONLINE
+(I) 2020-08-30T23:18:24 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-30T23:18:24 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-30T23:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-30T23:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-30T23:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-30T23:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-30T23:18:26 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-30T23:18:26 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: UDP/12910
+(I) 2020-08-31T00:02:29 - System network status changed to OFFLINE
+(C) 2020-08-31T00:02:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-31T00:02:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-31T00:04:50 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-31T00:04:50 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-31T00:04:50 - System network status changed to ONLINE
+(I) 2020-08-31T00:04:50 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-31T00:04:50 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-31T00:04:50 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-31T00:04:50 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-31T00:04:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-31T00:04:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-31T00:04:51 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: TCP/12910
+(I) 2020-08-31T00:04:51 - Successfully listening on IP: fe80::a467:d8f9:1d3a:6bf6%wlp0s20f0u1, port: UDP/12910
+(C) 2020-08-31T00:07:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-31T00:07:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-31T00:12:05 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-08-31T00:12:05 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-08-31T00:12:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-08-31T00:12:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-08-31T00:12:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-08-31T00:12:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-08-31T00:12:45 - System network status changed to OFFLINE
+(C) 2020-08-31T00:12:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-31T00:12:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(N) 2020-09-02T22:46:13 - qBittorrent v4.2.5 started
+(N) 2020-09-02T22:46:13 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-09-02T22:46:13 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-09-02T22:46:13 - Peer ID: -qB4250-
+(N) 2020-09-02T22:46:13 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-02T22:46:13 - DHT support [ON]
+(I) 2020-09-02T22:46:13 - Local Peer Discovery support [ON]
+(I) 2020-09-02T22:46:13 - PeX support [ON]
+(I) 2020-09-02T22:46:13 - Anonymous mode [OFF]
+(I) 2020-09-02T22:46:13 - Encryption support [ON]
+(I) 2020-09-02T22:46:13 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-02T22:46:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 02:57:26 2020.
+(N) 2020-09-02T22:46:14 - Options were saved successfully.
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: fe80::13be:7569:232:757f%wlp0s20f0u3, port: TCP/12910
+(I) 2020-09-02T22:46:14 - Successfully listening on IP: fe80::13be:7569:232:757f%wlp0s20f0u3, port: UDP/12910
+(I) 2020-09-02T22:46:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-09-02T22:46:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-09-02T22:46:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-09-02T22:46:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-09-02T22:46:14 - 'Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv' restored.
+(N) 2020-09-02T22:46:14 - 'hqf-fight.mkv' restored.
+(C) 2020-09-02T22:46:15 - File sizes mismatch for torrent 'Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv', pausing it.
+(I) 2020-09-02T22:46:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 02:59:37 2020.
+(I) 2020-09-02T22:46:16 - Successfully updated IP geolocation database.
+(N) 2020-09-02T22:46:22 - Download first and last piece first: Off, torrent: '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 34 [1080p].mkv'
+(N) 2020-09-02T22:46:22 - '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 34 [1080p].mkv' added to download list.
+(N) 2020-09-02T22:46:30 - 'Knockin'.on.Heaven's.Door.1997.1080p.BluRay.4xRus.Ger.HDCLUB-SbR.mkv' was removed from the transfer list and hard disk.
+(I) 2020-09-02T23:31:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-09-02T23:31:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-09-02T23:31:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-09-02T23:31:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-09-03T08:20:25 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-09-03T08:20:25 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-09-03T08:20:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-09-03T08:20:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-09-03T08:20:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-09-03T08:20:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(I) 2020-09-03T08:20:26 - Successfully listening on IP: fe80::13be:7569:232:757f%wlp0s20f0u3, port: TCP/12910
+(I) 2020-09-03T08:20:26 - Successfully listening on IP: fe80::13be:7569:232:757f%wlp0s20f0u3, port: UDP/12910
+(C) 2020-09-03T09:00:11 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-03T09:00:11 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-03T09:00:16 - System network status changed to OFFLINE
+(N) 2020-09-07T18:06:40 - qBittorrent v4.2.5 started
+(N) 2020-09-07T18:06:40 - Using config directory: /home/andrew/.config/qBittorrent/
+(I) 2020-09-07T18:06:40 - Trying to listen on: 0.0.0.0:12910,[::]:12910
+(N) 2020-09-07T18:06:40 - Peer ID: -qB4250-
+(N) 2020-09-07T18:06:40 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-07T18:06:40 - DHT support [ON]
+(I) 2020-09-07T18:06:40 - Local Peer Discovery support [ON]
+(I) 2020-09-07T18:06:40 - PeX support [ON]
+(I) 2020-09-07T18:06:40 - Anonymous mode [OFF]
+(I) 2020-09-07T18:06:40 - Encryption support [ON]
+(I) 2020-09-07T18:06:40 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-07T18:06:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 02:59:37 2020.
+(N) 2020-09-07T18:06:40 - Options were saved successfully.
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: 127.0.0.1, port: TCP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: 127.0.0.1, port: UDP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: 192.168.1.152, port: TCP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: 192.168.1.152, port: UDP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: ::1, port: TCP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: ::1, port: UDP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: fe80::6afc:1353:4a27:be7b%wlp0s20f0u2, port: TCP/12910
+(I) 2020-09-07T18:06:40 - Successfully listening on IP: fe80::6afc:1353:4a27:be7b%wlp0s20f0u2, port: UDP/12910
+(I) 2020-09-07T18:06:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: TCP/12910
+(I) 2020-09-07T18:06:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. external port: UDP/12910
+(I) 2020-09-07T18:06:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/12910
+(I) 2020-09-07T18:06:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/12910
+(N) 2020-09-07T18:06:40 - '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 34 [1080p].mkv' restored.
+(N) 2020-09-07T18:06:40 - 'hqf-fight.mkv' restored.
+(C) 2020-09-07T18:06:40 - File sizes mismatch for torrent '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 34 [1080p].mkv', pausing it.
+(C) 2020-09-07T18:06:40 - File sizes mismatch for torrent 'hqf-fight.mkv', pausing it.
+(N) 2020-09-07T18:06:52 - '[HorribleSubs] Re Zero kara Hajimeru Isekai Seikatsu - 34 [1080p].mkv' was removed from the transfer list and hard disk.
+(N) 2020-09-07T18:10:18 - Set location: moving "hqf-fight.mkv", from "/home/andrew/Downloads/" to "/home/andrew/Downloads/Videos"
+(N) 2020-09-07T18:10:18 - Successfully moved torrent: hqf-fight.mkv. New path: /home/andrew/Downloads/Videos/
+(C) 2020-09-07T18:13:21 - qBittorrent was just updated and needs to be restarted for the changes to be effective.
+(I) 2020-09-07T18:13:28 - UPnP / NAT-PMP support [OFF]

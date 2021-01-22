@@ -1,0 +1,243 @@
+2020-06-04T22:49:25.977Z [debug] [main] Safe constructing new CMakeTools instance
+2020-06-04T22:49:25.978Z [debug] [variant] Constructing VariantManager
+2020-06-04T22:49:25.980Z [debug] [main] Constructing new CMakeTools instance
+2020-06-04T22:49:25.981Z [debug] [main] Starting CMakeTools second-phase init
+2020-06-04T22:49:26.329Z [info] [variant] Loaded new set of variants
+2020-06-04T22:49:26.332Z [debug] [main] CMakeTools instance initialization complete.
+2020-06-04T22:49:26.344Z [debug] [kit] Reading kits file /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-04T22:49:26.375Z [info] [kit] Successfully loaded 4 kits from /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-04T22:49:26.380Z [debug] [kit] Not reading non-existent kits file: /home/andrew/Documents/Studies/CompSci/computer-science/.vscode/cmake-kits.json
+2020-06-04T22:49:26.381Z [debug] [main] Injecting new Kit into CMake driver
+2020-06-04T22:49:26.587Z [debug] [extension] Configuring workspace on open file:///home/andrew/Documents/Studies/CompSci/computer-science
+2020-06-04T22:49:26.590Z [info] [main] Configuring folder: computer-science 
+2020-06-04T22:49:26.591Z [debug] [main] Saving open files before configure/build
+2020-06-04T22:49:26.980Z [debug] [main] Starting new CMake driver
+2020-06-04T22:49:26.981Z [debug] [main] Starting CMake driver
+2020-06-04T22:49:26.982Z [debug] [cmakefileapi-driver] Creating instance of CMakeFileApiDriver
+2020-06-04T22:49:26.984Z [debug] [driver] CMakeDriver Kit set to GCC 10.1.0
+2020-06-04T22:49:26.986Z [debug] [driver] Trying to detect generator supported by system
+2020-06-04T22:49:27.004Z [debug] [driver] Command version test return code -1
+2020-06-04T22:49:27.020Z [debug] [driver] Command version test return code -1
+2020-06-04T22:49:27.041Z [debug] [driver] Command version test return code 0
+2020-06-04T22:49:27.042Z [debug] [driver] Run _refreshExpansions
+2020-06-04T22:49:27.043Z [debug] [driver] Run _refreshExpansions cb
+2020-06-04T22:49:27.047Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-06-04T22:49:27.050Z [debug] [cache] Parsing CMake cache string
+2020-06-04T22:49:27.084Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-06-04T22:49:27.086Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-b6b479dd3a57e8d45fc4.json","codemodel-v2-9ec3b4377efdac2c7747.json","index-2020-06-04T22-49-05-0136.json","target-bigint.o-Debug-d5e02b200288fc9eee9e.json"]
+2020-06-04T22:49:27.101Z [debug] [driver] Setting new variant , Disable optimizations - include debug information.
+2020-06-04T22:49:27.101Z [debug] [driver] Run _refreshExpansions
+2020-06-04T22:49:27.101Z [debug] [driver] Run _refreshExpansions cb
+2020-06-04T22:49:27.138Z [debug] [driver] Run _refreshExpansions
+2020-06-04T22:49:27.139Z [debug] [driver] Run _refreshExpansions cb
+2020-06-04T22:49:27.141Z [debug] [driver] Start configure 
+2020-06-04T22:49:27.142Z [debug] [driver] Runnnig pre-configure checks and steps
+2020-06-04T22:49:27.143Z [debug] [driver] Using compilers in GCC 10.1.0 for configure
+2020-06-04T22:49:27.148Z [debug] [driver] Run _refreshExpansions
+2020-06-04T22:49:27.148Z [debug] [driver] Run _refreshExpansions cb
+2020-06-04T22:49:27.153Z [debug] [cmakefileapi-driver] Invoking CMake /usr/bin/cmake with arguments ["--no-warn-unused-cli","-DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE","-DCMAKE_BUILD_TYPE:STRING=Debug","-DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc","-DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++","-H/home/andrew/Documents/Studies/CompSci/computer-science","-B/home/andrew/Documents/Studies/CompSci/computer-science/build","-G","Unix Makefiles"]
+2020-06-04T22:49:27.160Z [info] [proc] Executing command: /usr/bin/cmake --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ -H/home/andrew/Documents/Studies/CompSci/computer-science -B/home/andrew/Documents/Studies/CompSci/computer-science/build -G "Unix Makefiles"
+2020-06-04T22:49:27.198Z [info] [cmake] Not searching for unused variables given on the command line.
+2020-06-04T22:49:27.200Z [info] [cmake] -- Configuring done
+2020-06-04T22:49:27.205Z [info] [cmake] -- Generating done
+2020-06-04T22:49:27.211Z [info] [cmake] -- Build files have been written to: /home/andrew/Documents/Studies/CompSci/computer-science/build
+2020-06-04T22:49:27.213Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-06-04T22:49:27.216Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-b6b479dd3a57e8d45fc4.json","codemodel-v2-9ec3b4377efdac2c7747.json","index-2020-06-04T22-49-27-0210.json","target-bigint.o-Debug-d5e02b200288fc9eee9e.json"]
+2020-06-04T22:49:27.262Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-06-04T22:49:27.277Z [debug] [cache] Parsing CMake cache string
+2020-06-04T22:49:27.684Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-06-04T22:49:27.713Z [debug] [cache] Parsing CMake cache string
+2020-06-04T22:53:45.885Z [debug] [extension] Deactivate CMakeTools
+tarted
+2020-06-01T09:55:31.083Z [debug] [kitsController] Start selection of kits. Found 3 kits.
+2020-06-01T09:55:31.084Z [debug] [kitsController] Opening kit selection QuickPick
+2020-06-01T09:55:35.762Z [debug] [kitsController] Rescanning for kits
+2020-06-01T09:55:35.763Z [debug] [kit] Scanning for Kits on system
+2020-06-01T09:55:35.773Z [debug] [kit] Scanning directory /usr/local/sbin for compilers
+2020-06-01T09:55:35.774Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2020-06-01T09:55:35.775Z [debug] [kit] Scanning directory /usr/bin for compilers
+2020-06-01T09:55:35.776Z [debug] [kit] Scanning directory /usr/lib/jvm/default/bin for compilers
+2020-06-01T09:55:35.777Z [debug] [kit] Scanning directory /usr/bin/site_perl for compilers
+2020-06-01T09:55:35.777Z [debug] [kit] Scanning directory /usr/bin/vendor_perl for compilers
+2020-06-01T09:55:35.778Z [debug] [kit] Scanning directory /usr/bin/core_perl for compilers
+2020-06-01T09:55:35.779Z [debug] [kit] Scanning directory /home/andrew/.local/bin/i3cmds for compilers
+2020-06-01T09:55:35.779Z [debug] [kit] Scanning directory /home/andrew/.local/bin/statusbar for compilers
+2020-06-01T09:55:35.780Z [debug] [kit] Scanning directory /home/andrew/.local/bin/cron for compilers
+2020-06-01T09:55:35.781Z [debug] [kit] Scanning directory /home/andrew/.local/bin/ for compilers
+2020-06-01T09:55:35.784Z [debug] [kit] Found 0 kits in directory /usr/local/sbin
+2020-06-01T09:55:35.789Z [debug] [kit] Found 0 kits in directory /usr/local/bin
+2020-06-01T09:55:35.791Z [debug] [kit] Found 0 kits in directory /usr/lib/jvm/default/bin
+2020-06-01T09:55:35.791Z [debug] [kit] Found 0 kits in directory /usr/bin/site_perl
+2020-06-01T09:55:35.795Z [debug] [kit] Found 0 kits in directory /usr/bin/vendor_perl
+2020-06-01T09:55:35.800Z [debug] [kit] Found 0 kits in directory /usr/bin/core_perl
+2020-06-01T09:55:35.801Z [debug] [kit] Found 0 kits in directory /home/andrew/.local/bin/i3cmds
+2020-06-01T09:55:35.804Z [debug] [kit] Found 0 kits in directory /home/andrew/.local/bin/statusbar
+2020-06-01T09:55:35.807Z [debug] [kit] Found 0 kits in directory /home/andrew/.local/bin/cron
+2020-06-01T09:55:35.821Z [debug] [kit] Found 0 kits in directory /home/andrew/.local/bin/
+2020-06-01T09:55:35.893Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2020-06-01T09:55:35.894Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2020-06-01T09:55:35.921Z [debug] [kit] Testing Clang binary: /usr/bin/clang-10
+2020-06-01T09:55:35.922Z [debug] [kit] Testing Clang binary: /usr/bin/clang-10
+2020-06-01T09:55:35.978Z [debug] [kit] Testing GCC binary: /usr/bin/gcc
+2020-06-01T09:55:36.168Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-pc-linux-gnu-gcc
+2020-06-01T09:55:36.185Z [debug] [kit] Testing GCC binary: /usr/bin/x86_64-pc-linux-gnu-gcc-10.1.0
+2020-06-01T09:55:36.241Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-pc-linux-gnu-gcc-10.1.0
+2020-06-01T09:55:36.242Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-pc-linux-gnu-gcc
+2020-06-01T09:55:36.242Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc
+2020-06-01T09:55:36.243Z [debug] [kit] Detected Clang compiler: /usr/bin/clang-10
+2020-06-01T09:55:36.244Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2020-06-01T09:55:36.245Z [debug] [kit] Found 5 kits in directory /usr/bin
+2020-06-01T09:55:36.245Z [info] [kit] Found Kit: Clang 10.0.0
+2020-06-01T09:55:36.246Z [info] [kit] Found Kit: Clang 10.0.0
+2020-06-01T09:55:36.246Z [info] [kit] Found Kit: GCC 10.1.0
+2020-06-01T09:55:36.246Z [info] [kit] Found Kit: GCC for x86_64-pc-linux-gnu 10.1.0
+2020-06-01T09:55:36.246Z [info] [kit] Found Kit: GCC for x86_64-pc-linux-gnu 10.1.0
+2020-06-01T09:55:36.248Z [debug] [kitsController] Saving kits to /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-01T09:55:36.248Z [debug] [kitsController] Saving new kits to /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-01T09:55:36.255Z [debug] [extension] [5095] cmake.selectKit finished (returned false)
+2020-06-01T09:55:36.256Z [debug] [kit] Reading kits file /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-01T09:55:36.313Z [info] [kit] Successfully loaded 4 kits from /home/andrew/.local/share/CMakeTools/cmake-tools-kits.json
+2020-06-01T09:55:38.590Z [debug] [extension] [5556] cmake.selectKit started
+2020-06-01T09:55:38.591Z [debug] [kitsController] Start selection of kits. Found 6 kits.
+2020-06-01T09:55:38.592Z [debug] [kitsController] Opening kit selection QuickPick
+2020-06-01T09:55:51.829Z [debug] [kitsController] User selected kit {"label":"GCC 10.1.0","description":"Using compilers: C = /usr/bin/gcc, CXX = /usr/bin/g++","kit":{"name":"GCC 10.1.0","compilers":{"C":"/usr/bin/gcc","CXX":"/usr/bin/g++"}}}
+2020-06-01T09:55:51.832Z [debug] [main] Injecting new Kit into CMake driver
+2020-06-01T09:55:51.835Z [info] [driver] Switching to kit: GCC 10.1.0
+2020-06-01T09:55:51.840Z [debug] [driver] CMakeDriver Kit set to GCC 10.1.0
+2020-06-01T09:55:51.841Z [debug] [driver] Trying to detect generator supported by system
+2020-06-01T09:55:51.880Z [debug] [driver] Command version test return code -1
+2020-06-01T09:55:51.915Z [debug] [driver] Command version test return code -1
+2020-06-01T09:55:51.961Z [debug] [driver] Command version test return code 0
+2020-06-01T09:55:51.964Z [debug] [extension] [5556] cmake.selectKit finished (returned true)
+2020-06-01T09:55:54.652Z [debug] [extension] [2322] cmake.selectKit started
+2020-06-01T09:55:54.653Z [debug] [kitsController] Start selection of kits. Found 6 kits.
+2020-06-01T09:55:54.654Z [debug] [kitsController] Opening kit selection QuickPick
+2020-06-01T09:55:58.204Z [debug] [kitsController] User cancelled Kit selection
+2020-06-01T09:55:58.205Z [debug] [extension] [2322] cmake.selectKit finished (returned false)
+2020-06-01T09:55:58.390Z [debug] [extension] [4821] cmake.setVariant started
+2020-06-01T09:56:00.654Z [debug] [extension] [4821] cmake.setVariant finished (returned 1)
+2020-06-01T09:58:01.372Z [debug] [extension] Deactivate CMakeTools
+tarting debugger with following configuration. {"workspace":"file:///home/andrew/Documents/Studies/CompSci/computer-science","config":{"type":"cppdbg","name":"Debug bigint.o","request":"launch","cwd":"${workspaceFolder}","args":[],"MIMode":"gdb","miDebuggerPath":"/usr/bin/gdb","setupCommands":[{"description":"Enable pretty-printing for gdb","text":"-enable-pretty-printing","ignoreFailures":true}],"program":"/home/andrew/Documents/Studies/CompSci/computer-science/build/bigint.o"}}
+2020-03-17T18:50:36.541Z [debug] [extension] [6156] cmake.debugTarget finished (returned {"_debugServiceProxy":{},"_id":"a6cdb037-d8a9-4547-b07e-75d0361446f6","_type":"cppdbg","_name":"Debug bigint.o","_workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/andrew/Documents/Studies/CompSci/computer-science","external":"file:///home/andrew/Documents/Studies/CompSci/computer-science","path":"/home/andrew/Documents/Studies/CompSci/computer-science","scheme":"file"},"name":"computer-science","index":0},"_configuration":{"type":"cppdbg","name":"Debug bigint.o","request":"launch","cwd":"/home/andrew/Documents/Studies/CompSci/computer-science","args":[],"MIMode":"gdb","miDebuggerPath":"/usr/bin/gdb","setupCommands":[{"description":"Enable pretty-printing for gdb","text":"-enable-pretty-printing","ignoreFailures":true}],"program":"/home/andrew/Documents/Studies/CompSci/computer-science/build/bigint.o"}})
+2020-03-17T22:49:25.637Z [debug] [extension] [9820] cmake.setDefaultTarget started
+2020-03-17T22:49:32.847Z [debug] [extension] [9820] cmake.setDefaultTarget finished (returned undefined)
+2020-03-17T22:49:34.816Z [debug] [extension] [6806] cmake.build started
+2020-03-17T22:49:34.819Z [info] [main] Building folder: computer-science 
+2020-03-17T22:49:34.867Z [debug] [main] Saving open files before configure/build
+2020-03-17T22:49:34.922Z [info] [build] Starting build
+2020-03-17T22:49:34.956Z [debug] [driver] Start build all
+2020-03-17T22:49:34.957Z [debug] [driver] Runnnig pre-configure checks and steps
+2020-03-17T22:49:34.976Z [info] [proc] Executing command: /usr/bin/cmake --build /home/andrew/Documents/Studies/CompSci/computer-science/build --config Debug --target all -- -j 10
+2020-03-17T22:49:35.024Z [info] [build] make[1]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T22:49:35.025Z [info] [build] make[2]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T22:49:35.041Z [info] [build] make[2]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T22:49:35.058Z [info] [build] [100%] Built target bigint.o
+2020-03-17T22:49:35.060Z [info] [build] make[1]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T22:49:35.068Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-03-17T22:49:35.070Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-289995333db14cb6deef.json","codemodel-v2-0566efbd7f4d45d2866f.json","index-2020-03-17T17-48-06-0514.json","target-bigint.o-Debug-f5d5ce8863ea1aba8d85.json"]
+2020-03-17T22:49:35.077Z [debug] [driver] Run _refreshExpansions
+2020-03-17T22:49:35.077Z [debug] [driver] Run _refreshExpansions cb
+2020-03-17T22:49:35.092Z [info] [build] Build finished with exit code 0
+2020-03-17T22:49:35.095Z [debug] [extension] [6806] cmake.build finished (returned 0)
+2020-03-17T22:49:35.099Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-03-17T22:49:35.100Z [debug] [cache] Parsing CMake cache string
+2020-03-17T22:49:45.623Z [debug] [extension] [8415] cmake.setVariant started
+2020-03-17T22:49:47.570Z [debug] [extension] [8415] cmake.setVariant finished (returned 1)
+2020-03-17T23:37:17.161Z [debug] [extension] Deactivate CMakeTools
+e compiler by setting the CMake cache entry
+2020-03-17T12:13:36.917Z [error] [cmake]   CMAKE_LANGUAGE_COMPILER to the full path to the compiler, or to the
+2020-03-17T12:13:36.917Z [error] [cmake]   compiler name if it is in the PATH.
+2020-03-17T12:13:36.917Z [error] [cmake] 
+2020-03-17T12:13:36.917Z [error] [cmake] 
+2020-03-17T12:13:36.918Z [error] [cmake] CMake Error: Could not find cmake module file: CMakeLANGUAGEInformation.cmake
+2020-03-17T12:13:36.982Z [error] [cmake] CMake Error: CMAKE_LANGUAGE_COMPILER not set, after EnableLanguage
+2020-03-17T12:13:36.992Z [info] [cmake] -- Configuring incomplete, errors occurred!
+2020-03-17T12:13:36.992Z [info] [cmake] See also "/home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeFiles/CMakeOutput.log".
+2020-03-17T12:13:37.002Z [debug] [extension] [9214] cmake.setVariant finished (returned 0)
+2020-03-17T13:20:12.507Z [debug] [extension] [6783] cmake.launchTarget started
+2020-03-17T13:20:12.547Z [info] [main] Configuring folder: computer-science 
+2020-03-17T13:20:12.547Z [debug] [main] Saving open files before configure/build
+2020-03-17T13:20:12.616Z [debug] [driver] Start configure 
+2020-03-17T13:20:12.616Z [debug] [driver] Runnnig pre-configure checks and steps
+2020-03-17T13:20:12.617Z [debug] [driver] Using compilers in GCC 9.3.0 for configure
+2020-03-17T13:20:12.620Z [debug] [driver] Run _refreshExpansions
+2020-03-17T13:20:12.620Z [debug] [driver] Run _refreshExpansions cb
+2020-03-17T13:20:12.626Z [debug] [cmakefileapi-driver] Invoking CMake /usr/bin/cmake with arguments ["--no-warn-unused-cli","-DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE","-DCMAKE_BUILD_TYPE:STRING=Debug","-DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc","-DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++","-H/home/andrew/Documents/Studies/CompSci/computer-science","-B/home/andrew/Documents/Studies/CompSci/computer-science/build","-G","Unix Makefiles"]
+2020-03-17T13:20:12.631Z [info] [proc] Executing command: /usr/bin/cmake --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc -DCMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++ -H/home/andrew/Documents/Studies/CompSci/computer-science -B/home/andrew/Documents/Studies/CompSci/computer-science/build -G "Unix Makefiles"
+2020-03-17T13:20:12.664Z [info] [cmake] Not searching for unused variables given on the command line.
+2020-03-17T13:20:12.664Z [info] [cmake] -- Configuring done
+2020-03-17T13:20:12.669Z [error] [cmake] You have changed variables that require your cache to be deleted.
+2020-03-17T13:20:12.670Z [error] [cmake] Configure will be re-run and you may have to reset some variables.
+2020-03-17T13:20:12.670Z [error] [cmake] The following variables have changed:
+2020-03-17T13:20:12.670Z [error] [cmake] CMAKE_CXX_COMPILER= /usr/bin/g++
+2020-03-17T13:20:12.670Z [error] [cmake] 
+2020-03-17T13:20:12.804Z [info] [cmake] -- The CXX compiler identification is GNU 9.3.0
+2020-03-17T13:20:12.814Z [info] [cmake] -- Check for working CXX compiler: /usr/bin/g++
+2020-03-17T13:20:12.969Z [info] [cmake] -- Check for working CXX compiler: /usr/bin/g++ -- works
+2020-03-17T13:20:12.971Z [info] [cmake] -- Detecting CXX compiler ABI info
+2020-03-17T13:20:13.125Z [info] [cmake] -- Detecting CXX compiler ABI info - done
+2020-03-17T13:20:13.144Z [info] [cmake] -- Detecting CXX compile features
+2020-03-17T13:20:13.145Z [info] [cmake] -- Detecting CXX compile features - done
+2020-03-17T13:20:13.148Z [info] [cmake] -- Configuring done
+2020-03-17T13:20:13.154Z [info] [cmake] -- Generating done
+2020-03-17T13:20:13.158Z [info] [cmake] -- Build files have been written to: /home/andrew/Documents/Studies/CompSci/computer-science/build
+2020-03-17T13:20:13.160Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-03-17T13:20:13.160Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-633f3bab1b417b70a704.json","codemodel-v2-0566efbd7f4d45d2866f.json","index-2020-03-17T13-20-13-0157.json","target-bigint.o-Debug-f5d5ce8863ea1aba8d85.json"]
+2020-03-17T13:20:13.187Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-03-17T13:20:13.202Z [debug] [cache] Parsing CMake cache string
+2020-03-17T13:20:13.346Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-03-17T13:20:13.362Z [debug] [cache] Parsing CMake cache string
+2020-03-17T13:20:13.425Z [info] [main] Building folder: computer-science bigint.o
+2020-03-17T13:20:13.447Z [debug] [main] Saving open files before configure/build
+2020-03-17T13:20:13.471Z [info] [build] Starting build
+2020-03-17T13:20:13.487Z [debug] [driver] Start build bigint.o
+2020-03-17T13:20:13.488Z [debug] [driver] Runnnig pre-configure checks and steps
+2020-03-17T13:20:13.506Z [info] [proc] Executing command: /usr/bin/cmake --build /home/andrew/Documents/Studies/CompSci/computer-science/build --config Debug --target bigint.o -- -j 10
+2020-03-17T13:20:13.543Z [info] [build] make[1]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:13.561Z [info] [build] make[2]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:13.563Z [info] [build] make[3]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:13.576Z [info] [build] Scanning dependencies of target bigint.o
+2020-03-17T13:20:13.577Z [info] [build] make[3]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:13.580Z [info] [build] make[3]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:13.591Z [info] [build] [ 33%] Building CXX object CMakeFiles/bigint.o.dir/tests.cpp.o
+2020-03-17T13:20:13.591Z [info] [build] [ 66%] Building CXX object CMakeFiles/bigint.o.dir/BigInt.cpp.o
+2020-03-17T13:20:13.877Z [error] [build] /home/andrew/Documents/Studies/CompSci/computer-science/BigInt.cpp: In member function ‘void BigInt::operator+=(const BigInt&)’:
+2020-03-17T13:20:13.878Z [error] [build] /home/andrew/Documents/Studies/CompSci/computer-science/BigInt.cpp:40:14: warning: unused variable ‘carry’ [-Wunused-variable]
+2020-03-17T13:20:13.878Z [error] [build]    40 |         bool carry = false;
+2020-03-17T13:20:13.878Z [error] [build]       |              ^~~~~
+2020-03-17T13:20:14.085Z [info] [build] [100%] Linking CXX executable bigint.o
+2020-03-17T13:20:14.190Z [info] [build] make[3]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:14.202Z [info] [build] [100%] Built target bigint.o
+2020-03-17T13:20:14.203Z [info] [build] make[2]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:14.213Z [info] [build] make[1]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:20:14.215Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-03-17T13:20:14.216Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-633f3bab1b417b70a704.json","codemodel-v2-0566efbd7f4d45d2866f.json","index-2020-03-17T13-20-13-0157.json","target-bigint.o-Debug-f5d5ce8863ea1aba8d85.json"]
+2020-03-17T13:20:14.220Z [debug] [driver] Run _refreshExpansions
+2020-03-17T13:20:14.221Z [debug] [driver] Run _refreshExpansions cb
+2020-03-17T13:20:14.236Z [info] [build] Build finished with exit code 0
+2020-03-17T13:20:14.241Z [debug] [extension] [6783] cmake.launchTarget finished (returned {"_proxy":{},"_disposed":false,"_queuedRequests":[{"_args":["/home/andrew/Documents/Studies/CompSci/computer-science/build/bigint.o",true]},{"_args":[null]}],"_idPromise":{},"_creationOptions":{"name":"CMake/Launch"},"_name":"CMake/Launch","isOpen":false,"_pidPromise":{}})
+2020-03-17T13:20:14.243Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-03-17T13:20:14.244Z [debug] [cache] Parsing CMake cache string
+2020-03-17T13:26:12.073Z [debug] [extension] [3074] cmake.launchTarget started
+2020-03-17T13:26:12.128Z [info] [main] Building folder: computer-science bigint.o
+2020-03-17T13:26:12.144Z [debug] [main] Saving open files before configure/build
+2020-03-17T13:26:12.160Z [info] [build] Starting build
+2020-03-17T13:26:12.192Z [debug] [driver] Start build bigint.o
+2020-03-17T13:26:12.192Z [debug] [driver] Runnnig pre-configure checks and steps
+2020-03-17T13:26:12.211Z [info] [proc] Executing command: /usr/bin/cmake --build /home/andrew/Documents/Studies/CompSci/computer-science/build --config Debug --target bigint.o -- -j 10
+2020-03-17T13:26:12.244Z [info] [build] make[1]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.261Z [info] [build] make[2]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.263Z [info] [build] make[3]: Entering directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.275Z [info] [build] make[3]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.287Z [info] [build] [100%] Built target bigint.o
+2020-03-17T13:26:12.288Z [info] [build] make[2]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.294Z [info] [build] make[1]: Leaving directory '/home/andrew/Documents/Studies/CompSci/computer-science/build'
+2020-03-17T13:26:12.296Z [debug] [cmakefileapi-parser] Read reply folder: /home/andrew/Documents/Studies/CompSci/computer-science/build/.cmake/api/v1/reply
+2020-03-17T13:26:12.296Z [debug] [cmakefileapi-parser] Found index files: ["cache-v2-633f3bab1b417b70a704.json","codemodel-v2-0566efbd7f4d45d2866f.json","index-2020-03-17T13-23-46-0163.json","target-bigint.o-Debug-f5d5ce8863ea1aba8d85.json"]
+2020-03-17T13:26:12.300Z [debug] [driver] Run _refreshExpansions
+2020-03-17T13:26:12.300Z [debug] [driver] Run _refreshExpansions cb
+2020-03-17T13:26:12.317Z [info] [build] Build finished with exit code 0
+2020-03-17T13:26:12.319Z [debug] [extension] [3074] cmake.launchTarget finished (returned {"_proxy":{},"_disposed":false,"_queuedRequests":[{"_args":["/home/andrew/Documents/Studies/CompSci/computer-science/build/bigint.o",true]},{"_args":[null]}],"_idPromise":{},"_creationOptions":{"name":"CMake/Launch"},"_name":"CMake/Launch","isOpen":false,"_pidPromise":{}})
+2020-03-17T13:26:12.324Z [debug] [cache] Reading CMake cache file /home/andrew/Documents/Studies/CompSci/computer-science/build/CMakeCache.txt
+2020-03-17T13:26:12.325Z [debug] [cache] Parsing CMake cache string
+2020-03-17T14:30:57.789Z [debug] [extension] Deactivate CMakeTools

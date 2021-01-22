@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/andrew/Downloads/Doc%20Dec%2016%202020.pdf" added="2020-12-16T18:28:07.691876Z" modified="2020-12-25T20:28:36.760723Z" visited="2020-12-16T18:28:07.691880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T20:28:36.760719Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Practice2.pdf" added="2020-12-23T21:02:53.128355Z" modified="2021-01-11T08:44:10.612159Z" visited="2020-12-23T21:02:53.128357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-11T08:44:10.612153Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0.pdf" added="2020-12-23T21:03:36.604385Z" modified="2021-01-08T07:20:40.805494Z" visited="2020-12-23T21:03:36.604390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-08T07:20:40.805486Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Andrew%20W.%20Appel,%20Modern%20Compiler%20Implementation%20in%20Java,%202Ed%20(2002).pdf" added="2020-12-23T21:16:47.757126Z" modified="2020-12-23T21:16:47.757142Z" visited="2020-12-23T21:16:47.757128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-23T21:16:47.757135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Andrew%20W.%20Appel,%20Maia%20Ginsburg,%20Modern%20Compiler%20Implementation%20in%20C%20(2004).djvu" added="2020-12-23T21:38:43.972998Z" modified="2020-12-23T21:38:43.973014Z" visited="2020-12-23T21:38:43.973000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.djvu"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-23T21:38:43.973006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/2016_%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B8%D0%BD.pdf" added="2020-12-23T23:56:08.327806Z" modified="2020-12-23T23:56:31.300976Z" visited="2020-12-23T23:56:08.327808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-23T23:56:31.300973Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/progs/formlng.progs/new/02-parsers/build/test.lol" added="2020-12-24T13:58:58.112124Z" modified="2020-12-24T13:58:58.112140Z" visited="2020-12-24T13:58:58.112126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-24T13:58:58.112133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/fomalky_tex.pdf" added="2020-12-25T13:10:48.306380Z" modified="2020-12-25T13:10:59.096924Z" visited="2020-12-25T13:10:48.306382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T13:10:59.096915Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/Doc%20Dec%2016%202020.pdf" added="2020-12-25T19:02:40.717359Z" modified="2020-12-25T19:02:40.717375Z" visited="2020-12-25T19:02:40.717361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T19:02:40.717368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/Doc%20Dec%2025%202020.pdf" added="2020-12-25T19:09:39.074301Z" modified="2020-12-25T19:10:18.382167Z" visited="2020-12-25T19:09:39.074303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T19:10:18.382161Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/Doc%20Dec%2025%202020%20(1).pdf" added="2020-12-25T19:50:40.426359Z" modified="2020-12-25T19:50:40.426376Z" visited="2020-12-25T19:50:40.426361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T19:50:40.426367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/a.py" added="2020-12-25T20:26:21.885224Z" modified="2020-12-25T20:26:21.885232Z" visited="2020-12-25T20:26:21.885225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2020-12-25T20:26:21.885228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/No_food.jpg" added="2020-12-27T02:38:06.851104Z" modified="2021-01-22T13:17:56.945667Z" visited="2020-12-27T02:38:06.851107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945663Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/2016_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2.pdf" added="2021-01-08T10:05:20.070159Z" modified="2021-01-08T10:05:20.070174Z" visited="2021-01-08T10:05:20.070160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-08T10:05:20.070167Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Dyachenko-MI-Mera-i-integral.djvu" added="2021-01-09T16:32:23.448583Z" modified="2021-01-09T16:32:23.448594Z" visited="2021-01-09T16:32:23.448584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.djvu"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-09T16:32:23.448589Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/96a2a8665dc33ca0d9bd522d1be8d481.png" added="2021-01-11T06:29:09.327108Z" modified="2021-01-22T13:17:56.945730Z" visited="2021-01-11T06:29:09.327110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945726Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/%D0%A1%D1%87%D0%B5%D1%82%20%D0%BD%D0%B0%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%83%20%E2%84%96%20118%20%D0%BE%D1%82%2011%20%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F%202021%20%D0%B3.pdf" added="2021-01-11T08:46:15.020171Z" modified="2021-01-11T08:46:15.020189Z" visited="2021-01-11T08:46:15.020173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-11T08:46:15.020180Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Howling%20VI%20-%20The%20Freaks%20(1991).mkv" added="2021-01-12T15:06:10.491534Z" modified="2021-01-12T15:06:10.491549Z" visited="2021-01-12T15:06:10.491535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-12T15:06:10.491542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/%5BBeatrice-Raws%5D%20Neon%20Genesis%20Evangelion%20-%20The%20End%20of%20Evangelion%20%5BBDRip%201920x1080%20HEVC%20TrueHD%5D.torrent" added="2021-01-14T12:56:43.359230Z" modified="2021-01-14T12:56:43.359246Z" visited="2021-01-14T12:56:43.359232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-14T12:56:43.359238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Subarashiki_Hibi__Furenzoku_Sonzai_.mdf" added="2021-01-16T14:41:46.274314Z" modified="2021-01-16T14:41:46.274327Z" visited="2021-01-16T14:41:46.274315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-16T14:41:46.274321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/2020_Lukashov.pdf" added="2021-01-18T14:55:08.401081Z" modified="2021-01-18T14:55:21.162058Z" visited="2021-01-18T14:55:08.401083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-18T14:55:21.162053Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Lukashov_KI.pdf" added="2021-01-20T16:46:43.847140Z" modified="2021-01-20T16:46:59.998135Z" visited="2021-01-20T16:46:43.847142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T16:46:59.998128Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/4f1fa625-9e2b-4887-8233-a19b2e89b946.jpeg" added="2021-01-20T18:46:56.722381Z" modified="2021-01-20T18:47:01.268138Z" visited="2021-01-20T18:46:56.722383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-20T18:47:01.268134Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Music" added="2021-01-22T13:16:07.699208Z" modified="2021-01-22T13:16:07.699226Z" visited="2021-01-22T13:16:07.699211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:16:07.699217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/13eb41c5933766a42c315ad5114b3f721717443da9d19a2610bdf02362a0efaa.jpg" added="2021-01-22T13:17:56.945515Z" modified="2021-01-22T13:17:56.945534Z" visited="2021-01-22T13:17:56.945517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945524Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/1YohplImVeo.jpg" added="2021-01-22T13:17:56.945581Z" modified="2021-01-22T13:17:56.945591Z" visited="2021-01-22T13:17:56.945582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/adac61f7d0dd791afadcb66d2f2cc1e9e6e2dac3f28c7435996df7c707f2a1d7.jpg" added="2021-01-22T13:17:56.945617Z" modified="2021-01-22T13:17:56.945626Z" visited="2021-01-22T13:17:56.945618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/d98607a1d9c0e265b9397873ea99bdac50a8d462ad40e0a7cb50737fa9120661.png" added="2021-01-22T13:17:56.945643Z" modified="2021-01-22T13:17:56.945648Z" visited="2021-01-22T13:17:56.945643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/Izta868LbIs.jpg" added="2021-01-22T13:17:56.945680Z" modified="2021-01-22T13:17:56.945685Z" visited="2021-01-22T13:17:56.945680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945682Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/t5dLJx-SFm8.jpg" added="2021-01-22T13:17:56.945704Z" modified="2021-01-22T13:17:56.945709Z" visited="2021-01-22T13:17:56.945705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/BSOD.png" added="2021-01-22T13:17:56.945743Z" modified="2021-01-22T13:17:56.945748Z" visited="2021-01-22T13:17:56.945743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-11_17-22.png" added="2021-01-22T13:17:56.945761Z" modified="2021-01-22T13:17:56.945765Z" visited="2021-01-22T13:17:56.945761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-08_16-12.png" added="2021-01-22T13:17:56.945778Z" modified="2021-01-22T13:17:56.945783Z" visited="2021-01-22T13:17:56.945778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-07_06-52.png" added="2021-01-22T13:17:56.945796Z" modified="2021-01-22T13:17:56.945801Z" visited="2021-01-22T13:17:56.945796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/dream_thinkpad.gif" added="2021-01-22T13:17:56.945814Z" modified="2021-01-22T13:17:56.945820Z" visited="2021-01-22T13:17:56.945814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-22_09-22.png" added="2021-01-22T13:17:56.945832Z" modified="2021-01-22T13:17:56.945837Z" visited="2021-01-22T13:17:56.945833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945834Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-21_17-47.png" added="2021-01-22T13:17:56.945849Z" modified="2021-01-22T13:17:56.945855Z" visited="2021-01-22T13:17:56.945850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-21_17-17.png" added="2021-01-22T13:17:56.945866Z" modified="2021-01-22T13:17:56.945872Z" visited="2021-01-22T13:17:56.945867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-15_01-20.png" added="2021-01-22T13:17:56.945884Z" modified="2021-01-22T13:17:56.945889Z" visited="2021-01-22T13:17:56.945885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945886Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/90dcab84446a5b4be22217ea7ce4d17601d047318e38c5d489fc867bf9db802d.png" added="2021-01-22T13:17:56.945902Z" modified="2021-01-22T13:17:56.945908Z" visited="2021-01-22T13:17:56.945903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/e3200e99aa48a6c99526e777c6b143dfd739c089554d7c8c75509d2b0a78d46b.jpg" added="2021-01-22T13:17:56.945920Z" modified="2021-01-22T13:17:56.945927Z" visited="2021-01-22T13:17:56.945921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/f88746a7e186cc140fc22be9d42aa44e7888f64589be3f1b2bf164121449500d.jpg" added="2021-01-22T13:17:56.945939Z" modified="2021-01-22T13:17:56.945945Z" visited="2021-01-22T13:17:56.945940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945942Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/e7c7cfafc4bd17ff51701569e73c364c5c1aab584101f854dee8b0e5dca74e4a.png" added="2021-01-22T13:17:56.945958Z" modified="2021-01-22T13:17:56.945964Z" visited="2021-01-22T13:17:56.945958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/877df4a7b0a392c0b4187729ff946cf7611919f847b6dae0bdf7e9ce6df03b25.jpg" added="2021-01-22T13:17:56.945977Z" modified="2021-01-22T13:17:56.945983Z" visited="2021-01-22T13:17:56.945977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-21_19-26.png" added="2021-01-22T13:17:56.945994Z" modified="2021-01-22T13:17:56.946000Z" visited="2021-01-22T13:17:56.945995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.945996Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-20_06-31.png" added="2021-01-22T13:17:56.946013Z" modified="2021-01-22T13:17:56.946018Z" visited="2021-01-22T13:17:56.946013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-21_19-34.png" added="2021-01-22T13:17:56.946030Z" modified="2021-01-22T13:17:56.946037Z" visited="2021-01-22T13:17:56.946031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946033Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-11-18_00-26.png" added="2021-01-22T13:17:56.946048Z" modified="2021-01-22T13:17:56.946053Z" visited="2021-01-22T13:17:56.946049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946051Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2ca6899a8aea1e3d8849dd0d5733a3f181d2e724da7896a1ffc619ab95d12009.jpg" added="2021-01-22T13:17:56.946068Z" modified="2021-01-22T13:17:56.946074Z" visited="2021-01-22T13:17:56.946069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946071Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_16-47.png" added="2021-01-22T13:17:56.946086Z" modified="2021-01-22T13:17:56.946091Z" visited="2021-01-22T13:17:56.946087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_16-51.png" added="2021-01-22T13:17:56.946105Z" modified="2021-01-22T13:17:56.946110Z" visited="2021-01-22T13:17:56.946106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_16-31.png" added="2021-01-22T13:17:56.946122Z" modified="2021-01-22T13:17:56.946127Z" visited="2021-01-22T13:17:56.946123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/05b1d7eb8d97fd1f28ef2eb89246693c152a4b705e663ce5e10c5397a7e8f6ce.jpg" added="2021-01-22T13:17:56.946140Z" modified="2021-01-22T13:17:56.946146Z" visited="2021-01-22T13:17:56.946141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946143Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/eb1ba38667800b1ac4387adf72cc8aea6ea700ca052cc247aea9e8e5d80b9b76.jpg" added="2021-01-22T13:17:56.946161Z" modified="2021-01-22T13:17:56.946166Z" visited="2021-01-22T13:17:56.946161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/bdacc5d536e05a7e00e24148d12588874c430fe6419721821b714bb34c83b37b.png" added="2021-01-22T13:17:56.946180Z" modified="2021-01-22T13:17:56.946187Z" visited="2021-01-22T13:17:56.946181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_01-44.png" added="2021-01-22T13:17:56.946198Z" modified="2021-01-22T13:17:56.946203Z" visited="2021-01-22T13:17:56.946198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-19_19-56.png" added="2021-01-22T13:17:56.946215Z" modified="2021-01-22T13:17:56.946220Z" visited="2021-01-22T13:17:56.946215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_01-23.png" added="2021-01-22T13:17:56.946233Z" modified="2021-01-22T13:17:56.946238Z" visited="2021-01-22T13:17:56.946233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/3aeb4d283cbec2cd82522345314e08f9aeb083c10f80404e72409e1c81f35728.png" added="2021-01-22T13:17:56.946258Z" modified="2021-01-22T13:17:56.946264Z" visited="2021-01-22T13:17:56.946259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-18_00-38.png" added="2021-01-22T13:17:56.946285Z" modified="2021-01-22T13:17:56.946291Z" visited="2021-01-22T13:17:56.946286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-16_18-12.png" added="2021-01-22T13:17:56.946303Z" modified="2021-01-22T13:17:56.946308Z" visited="2021-01-22T13:17:56.946303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-16_02-02.png" added="2021-01-22T13:17:56.946320Z" modified="2021-01-22T13:17:56.946325Z" visited="2021-01-22T13:17:56.946320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/ff2039ec787d4ea75daea88b2e9e31fe9292264a7290795d943ebcbd218896f9.jpg" added="2021-01-22T13:17:56.946338Z" modified="2021-01-22T13:17:56.946344Z" visited="2021-01-22T13:17:56.946338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-16_01-36.png" added="2021-01-22T13:17:56.946355Z" modified="2021-01-22T13:17:56.946361Z" visited="2021-01-22T13:17:56.946355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-16_01-50.png" added="2021-01-22T13:17:56.946372Z" modified="2021-01-22T13:17:56.946378Z" visited="2021-01-22T13:17:56.946373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/9a4fd15941ab237b3063b1f3f15b10e43691384f65a7672c790ef7575d6ed326.gif" added="2021-01-22T13:17:56.946391Z" modified="2021-01-22T13:17:56.946397Z" visited="2021-01-22T13:17:56.946392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946394Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-11-28_16-09.png" added="2021-01-22T13:17:56.946409Z" modified="2021-01-22T13:17:56.946414Z" visited="2021-01-22T13:17:56.946409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-14_13-25.png" added="2021-01-22T13:17:56.946426Z" modified="2021-01-22T13:17:56.946431Z" visited="2021-01-22T13:17:56.946426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-04_20-26.png" added="2021-01-22T13:17:56.946443Z" modified="2021-01-22T13:17:56.946449Z" visited="2021-01-22T13:17:56.946444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/photo_2016-07-25_23-08-01.jpg" added="2021-01-22T13:17:56.946461Z" modified="2021-01-22T13:17:56.946467Z" visited="2021-01-22T13:17:56.946462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-15_17-52.png" added="2021-01-22T13:17:56.946478Z" modified="2021-01-22T13:17:56.946484Z" visited="2021-01-22T13:17:56.946479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946481Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2021-01-18_16-35.png" added="2021-01-22T13:17:56.946495Z" modified="2021-01-22T13:17:56.946501Z" visited="2021-01-22T13:17:56.946496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/swimming_timetable.png" added="2021-01-22T13:17:56.946513Z" modified="2021-01-22T13:17:56.946518Z" visited="2021-01-22T13:17:56.946514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Downloads/pics/2020-12-05_11-24.png" added="2021-01-22T13:17:56.946531Z" modified="2021-01-22T13:17:56.946536Z" visited="2021-01-22T13:17:56.946531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T13:17:56.946533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andrew/Documents/progs" added="2021-01-22T14:18:28.680307Z" modified="2021-01-22T14:18:28.680330Z" visited="2021-01-22T14:18:28.680311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-01-22T14:18:28.680318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

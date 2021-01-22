@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/zathura
+Icon=application-x-desktop
+MimeType=*/*
+Name=zathura
+Type=Application
+X-DDE-File-Manager-Custom-Open=image/vnd.djvu+multipage
